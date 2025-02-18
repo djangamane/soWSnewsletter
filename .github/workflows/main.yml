@@ -3,7 +3,6 @@ name: Run Newsletter Automation
 on:
   schedule:
     - cron: "0 7 * * *"  # Runs every day at 7 AM UTC
-
   workflow_dispatch:  # Allows manual runs
 
 jobs:
@@ -27,6 +26,18 @@ jobs:
       - name: Run newsletter generator
         run: python enhanced_newsletter.py
 
+      - name: Move newsletter files to GitHub Pages
+        run: |
+          mkdir -p docs
+          mv critical_newsletter_*.txt docs/
+          mv full_articles_*.json docs/
+          git add docs/
+          git commit -m "Move newsletter files to GitHub Pages" || exit 0
+          git push origin main
+
+      - name: Verify GitHub Pages Deployment
+        run: echo "Files should now be available in GitHub Pages under /docs/"
+
       - name: Commit and Push Results
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -36,4 +47,3 @@ jobs:
           git add .
           git commit -m "Auto-update newsletter - $(date)" || exit 0
           git push origin main
-
