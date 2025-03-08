@@ -1,7 +1,7 @@
 {
   "date": "2025-03-08",
-  "total_articles": 97,
-  "average_severity": 73.96881182963656,
+  "total_articles": 96,
+  "average_severity": 73.48443747369528,
   "articles": [
     {
       "keyword": "systemic racism",
@@ -194,14 +194,24 @@
       "severity_score": 75.0
     },
     {
-      "keyword": "systemic racism",
-      "title": "INCA, the Peruvian Dance Ensemble - Calendar | City of Glendale, CA",
+      "keyword": "white supremacy",
+      "title": "White supremacist invited to speak at CMU by student club | Western Colorado | gjsentinel.com",
       "date": "2025-03-08",
-      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.glendaleca.gov/Home/Components/Calendar/Event/53614/18%3Fbacklist%3D%252F&ct=ga&cd=CAIyHGEwMWYwYjg1MTkxYTA4MDA6Y29tOmVuOlVTOlI&usg=AOvVaw1ahN4nOkJDmoKGwsgVMGVF",
-      "full_text": "Be The Change is the Library's promise to build collective understanding of systemic racism, elevate the voices and stories of Black, Indigenous&nbsp;...",
-      "summary": "Be The Change is the Library's promise to build collective understanding of systemic racism, elevate the voices and stories of Black, Indigenous&nbsp;. . .",
-      "sentiment": -0.16666666666666666,
-      "severity_score": 79.16666666666667
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.gjsentinel.com/news/western_colorado/white-supremacist-invited-to-speak-at-cmu-by-student-club/article_0d71c6ae-fba1-11ef-877d-b3bb9f77ab45.html&ct=ga&cd=CAIyHDQxMWE1YzIxYzQ0YzYxZjA6Y29tOmVuOlVTOlI&usg=AOvVaw1FmGUFopoWsJJ2Ao1dRq1M",
+      "full_text": "Tags. Politics &middot; Social Issues &middot; Prejudice And Discrimination &middot; Injustice &middot; Issues In Ethics &middot; Politics And Race &middot; White Supremacy &middot; Race-related&nbsp;...",
+      "summary": "Tags. Politics &middot; Social Issues &middot; Prejudice And Discrimination &middot; Injustice &middot; Issues In Ethics &middot; Politics And Race &middot; White Supremacy &middot; Race-related&nbsp;. .",
+      "sentiment": 0.016666666666666666,
+      "severity_score": 74.58333333333333
+    },
+    {
+      "keyword": "white supremacy",
+      "title": "Steve Bannon: Five Things to Know - ADL",
+      "date": "2025-03-08",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.adl.org/resources/article/steve-bannon-five-things-know&ct=ga&cd=CAIyHDQxMWE1YzIxYzQ0YzYxZjA6Y29tOmVuOlVTOlI&usg=AOvVaw1WCx13iWYFS9Gxsq3MzkQw",
+      "full_text": "... white supremacy. Bannon reportedly \u201cproudly\u201d told a Mother Jones reporter at the 2016 Republican National Convention \u201cwe're the platform for the&nbsp;...",
+      "summary": ". . .",
+      "sentiment": 0.4,
+      "severity_score": 65.0
     },
     {
       "keyword": "white supremacy",
@@ -384,24 +394,64 @@
       "severity_score": 75.0
     },
     {
-      "keyword": "white supremacy",
-      "title": "Africa: Taung Child - the Controversial Story of the Fossil Discovery That Proved Humanity's ...",
+      "keyword": "MAGA",
+      "title": "Meghan McCain Goes Full MAGA in Clap Back at 'White Lotus' Star - The Daily Beast",
       "date": "2025-03-08",
-      "url": "https://www.google.com/url?rct=j&sa=t&url=https://allafrica.com/stories/202503070001.html&ct=ga&cd=CAIyHDQxMWE1YzIxYzQ0YzYxZjA6Y29tOmVuOlVTOlI&usg=AOvVaw0blKDst3Y1GWZOQHPyCDaw",
-      "full_text": "Paleoanthropology and the search for human origins had its roots in that era of racialised thinking and white supremacy.&quot; Dart's contribution&nbsp;...",
-      "summary": "Paleoanthropology and the search for human origins had its roots in that era of racialised thinking and white supremacy. &quot; Dart's contribution&nbsp;. .",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.thedailybeast.com/meghan-mccain-goes-full-maga-in-clap-back-at-white-lotus-star-carrie-coon/&ct=ga&cd=CAIyGmEzMjMwZDg4N2M0MDhmOWE6Y29tOmVuOlVT&usg=AOvVaw2RqNOdBSJ99SdQFWzBzwhs",
+      "full_text": "Meghan McCain Goes Full MAGA in Clap Back at 'White Lotus' Star. BLESS YOUR HEART. \u201cWho's gonna tell her?\u201d actor Carrie Coon asked after McCain said&nbsp;...",
+      "summary": "Meghan McCain Goes Full MAGA in Clap Back at 'White Lotus' Star. BLESS YOUR HEART. \u201cWho's gonna tell her?\u201d actor Carrie Coon asked after McCain said&nbsp;.",
+      "sentiment": 0.11666666666666665,
+      "severity_score": 72.08333333333333
+    },
+    {
+      "keyword": "MAGA",
+      "title": "The politics of a car: The rise of 'Co-President' Elon Musk and the fall of Tesla",
+      "date": "2025-03-08",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://timesofindia.indiatimes.com/business/international-business/the-politics-of-a-car-the-rise-of-co-president-elon-musk-and-the-fall-of-tesla/articleshow/118789493.cms&ct=ga&cd=CAIyGmEzMjMwZDg4N2M0MDhmOWE6Y29tOmVuOlVT&usg=AOvVaw03wMvstmTUJXHCGIojl0dG",
+      "full_text": "... MAGA hat.\u201d Jennifer Trebb, ex-Tesla owner, told NYT: &quot;Two weeks ago, I was called a Nazi in the parking lot at Kroger. I came home and told my&nbsp;...",
+      "summary": ". . .",
       "sentiment": 0.0,
       "severity_score": 75.0
     },
     {
-      "keyword": "white supremacy",
-      "title": "Seven exciting OTT releases to bookmark for your next binge marathon - Indulge Express",
+      "keyword": "MAGA",
+      "title": "The MAGA world of 'great power politics': US embraces Russia, 'stabs Europe in the back'",
       "date": "2025-03-08",
-      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.indulgexpress.com/entertainment/tv/2025/Mar/07/seven-exciting-ott-releases-to-bookmark-for-your-next-binge-marathon&ct=ga&cd=CAIyHDQxMWE1YzIxYzQ0YzYxZjA6Y29tOmVuOlVTOlI&usg=AOvVaw3yT-zgC9_jT3tpmDG4xeAY",
-      "full_text": "The narrative centres on Kantilal Sahni, a lawyer who uncovers a deep-seated conspiracy rooted in white supremacy. Language: Hindi. March 7. On&nbsp;...",
-      "summary": "The narrative centres on Kantilal Sahni, a lawyer who uncovers a deep-seated conspiracy rooted in white supremacy. Language: Hindi. March 7.",
-      "sentiment": 0.0,
-      "severity_score": 75.0
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.france24.com/en/video/20250307-new-normal-european-union-facing-a-new-great-power-politics&ct=ga&cd=CAIyGmEzMjMwZDg4N2M0MDhmOWE6Y29tOmVuOlVT&usg=AOvVaw2_PJL3quc-d9GYhuEE5FS3",
+      "full_text": "The MAGA world of 'great power politics': US embraces Russia, 'stabs Europe in the back' ... European countries are hastening to boost defence spending&nbsp;...",
+      "summary": "The MAGA world of 'great power politics': US embraces Russia, 'stabs Europe in the back' . . .",
+      "sentiment": 0.26666666666666666,
+      "severity_score": 68.33333333333334
+    },
+    {
+      "keyword": "MAGA",
+      "title": "Gay MAGA Influencer Dies After Series of Accidents, Legal Woes, and Shocking Revelations",
+      "date": "2025-03-08",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://gayety.co/gay-influencer-bruno-dies-after-series-of-accidents-legal-woes-and-shocking-revelations&ct=ga&cd=CAIyGmEzMjMwZDg4N2M0MDhmOWE6Y29tOmVuOlVT&usg=AOvVaw3k2uaoV8z7Bo3a05bEGA0U",
+      "full_text": "Influencer and social media personality Bruno, known for his popular Garrett Travels account with 61,000. News. Gay MAGA Influencer Dies After Series&nbsp;...",
+      "summary": "Influencer and social media personality Bruno, known for his popular Garrett Travels account with 61,000. News. Gay MAGA Influencer Dies After Series&nbsp;.",
+      "sentiment": 0.35000000000000003,
+      "severity_score": 66.25
+    },
+    {
+      "keyword": "MAGA",
+      "title": "Veteran legal conservatives rush to Justice Barrett's defense amid MAGA backlash - KRDO",
+      "date": "2025-03-08",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://krdo.com/news/2025/03/07/veteran-legal-conservatives-rush-to-justice-barretts-defense-amid-maga-backlash/&ct=ga&cd=CAIyGmEzMjMwZDg4N2M0MDhmOWE6Y29tOmVuOlVT&usg=AOvVaw0NYJ_A37O75waOUe48sJI6",
+      "full_text": "Veteran legal conservatives rush to Justice Barrett's defense amid MAGA backlash. By CNN Newssource. follow Follow &quot;&quot; to receive notifications about&nbsp;...",
+      "summary": "Veteran legal conservatives rush to Justice Barrett's defense amid MAGA backlash. By CNN Newssource. follow Follow &quot;&quot; to receive notifications about&nbsp;.",
+      "sentiment": 0.1,
+      "severity_score": 72.5
+    },
+    {
+      "keyword": "MAGA",
+      "title": "Joy Behar's Surprising Take on Being Friends with MAGA - YouTube",
+      "date": "2025-03-08",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3D7Z7tcsmDxFU&ct=ga&cd=CAIyGmEzMjMwZDg4N2M0MDhmOWE6Y29tOmVuOlVT&usg=AOvVaw1ncm3ORpEB_clQWs-e7dvR",
+      "full_text": "... Joy Behar's Surprising Take on Being Friends with MAGA. 214 views \u00b7 7 minutes ago #theview #maga #trump ...more. The Young Turks. 6.06M.",
+      "summary": ". . .",
+      "sentiment": 0.5333333333333333,
+      "severity_score": 61.666666666666664
     },
     {
       "keyword": "MAGA",
@@ -542,66 +592,6 @@
       "summary": "MAGA can't run a regime change on its own. .",
       "sentiment": 0.6,
       "severity_score": 60.0
-    },
-    {
-      "keyword": "MAGA",
-      "title": "Race-baiting MAGA trolls are now running the United States",
-      "date": "2025-03-08",
-      "url": "https://www.google.com/url?rct=j&sa=t&url=https://san.com/opinions/race-baiting-maga-trolls-are-now-running-the-united-states/&ct=ga&cd=CAIyGmEzMjMwZDg4N2M0MDhmOWE6Y29tOmVuOlVT&usg=AOvVaw1u5845ZDlRHHr2GMD0yORP",
-      "full_text": "Ben Shapiro, Elon Musk, and other MAGA figures have taken control of the federal government. When will it end?",
-      "summary": "Ben Shapiro, Elon Musk, and other MAGA figures have taken control of the federal government. When will it end?.",
-      "sentiment": -0.125,
-      "severity_score": 78.125
-    },
-    {
-      "keyword": "MAGA",
-      "title": "Why is MAGA turning on Amy Coney Barrett? - The Week",
-      "date": "2025-03-08",
-      "url": "https://www.google.com/url?rct=j&sa=t&url=https://theweek.com/politics/amy-coney-barrett-maga-votes-supreme-court&ct=ga&cd=CAIyGmEzMjMwZDg4N2M0MDhmOWE6Y29tOmVuOlVT&usg=AOvVaw36KY-lnt19MIgrTPKo5fVs",
-      "full_text": "&quot;The power has gone to her head,&quot; said conservative podcaster Mark Levin. Barrett's vote on the foreign aid freeze &quot;sparked a MAGA meltdown,&quot; said The&nbsp;...",
-      "summary": "&quot;The power has gone to her head,&quot; said conservative podcaster Mark Levin. Barrett's vote on the foreign aid freeze &quot;sparked a MAGA meltdown,&quot; said The&nbsp;. .",
-      "sentiment": -0.125,
-      "severity_score": 78.125
-    },
-    {
-      "keyword": "MAGA",
-      "title": "MAGA already calling on Trump to fire AG Pam Bondi. Here's why - NJ.com",
-      "date": "2025-03-08",
-      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.nj.com/politics/2025/03/maga-already-calling-on-trump-to-fire-ag-pam-bondi-heres-why.html&ct=ga&cd=CAIyGmEzMjMwZDg4N2M0MDhmOWE6Y29tOmVuOlVT&usg=AOvVaw39sI4ZWe8KbBQiZPW8zjn2",
-      "full_text": "The move drew sharp rebuke from MAGA supporters online who had long been demanding to see the entirety of the Epstein documents. Right-wing activist&nbsp;...",
-      "summary": "The move drew sharp rebuke from MAGA supporters online who had long been demanding to see the entirety of the Epstein documents. Right-wing activist&nbsp;. .",
-      "sentiment": -0.0875,
-      "severity_score": 77.1875
-    },
-    {
-      "keyword": "MAGA",
-      "title": "Medicaid is more important than MAGA - Indianapolis Recorder",
-      "date": "2025-03-08",
-      "url": "https://www.google.com/url?rct=j&sa=t&url=https://indianapolisrecorder.com/medicaid-is-more-important-than-maga/&ct=ga&cd=CAIyGmEzMjMwZDg4N2M0MDhmOWE6Y29tOmVuOlVT&usg=AOvVaw0bKV-pFhiDUf82-ks3X8ga",
-      "full_text": "We only need three House Republicans to find the courage to vote against MAGA and extreme cuts to essential safety net programs. Indiana's two&nbsp;...",
-      "summary": "We only need three House Republicans to find the courage to vote against MAGA and extreme cuts to essential safety net programs. Indiana's two&nbsp;. .",
-      "sentiment": -0.03125,
-      "severity_score": 75.78125
-    },
-    {
-      "keyword": "MAGA",
-      "title": "MAGA shockingly turns against this Trump Supreme Court appointee - SILive.com",
-      "date": "2025-03-08",
-      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.silive.com/politics/2025/03/maga-shockingly-turns-against-this-trump-supreme-court-appointee.html&ct=ga&cd=CAIyGmEzMjMwZDg4N2M0MDhmOWE6Y29tOmVuOlVT&usg=AOvVaw0sN-tTaQs9yMtcV14kQKR-",
-      "full_text": "Some of President Donald Trump's MAGA fans have stunningly turned against one of his Supreme Court appointees: Justice Amy Coney Barrett.",
-      "summary": "Some of President Donald Trump's MAGA fans have stunningly turned against one of his Supreme Court appointees: Justice Amy Coney Barrett. .",
-      "sentiment": 0.5,
-      "severity_score": 62.5
-    },
-    {
-      "keyword": "MAGA",
-      "title": "Why MAGA is suddenly calling Justice Amy Coney Barrett a 'DEI' hire",
-      "date": "2025-03-08",
-      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.msnbc.com/top-stories/latest/amy-coney-barrett-dei-trump-maga-rcna195347&ct=ga&cd=CAIyGmEzMjMwZDg4N2M0MDhmOWE6Y29tOmVuOlVT&usg=AOvVaw0blHk6JxHBlvdpTlLkfS61",
-      "full_text": "With many of President Donald Trump's executive actions tangled up in the courts, MAGA Republicans have grown angry with Supreme Court Justice Amy&nbsp;...",
-      "summary": "With many of President Donald Trump's executive actions tangled up in the courts, MAGA Republicans have grown angry with Supreme Court Justice Amy&nbsp;. . .",
-      "sentiment": 0.0,
-      "severity_score": 75.0
     },
     {
       "keyword": "anti-racism",
