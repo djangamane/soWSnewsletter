@@ -3,3 +3,5 @@ trafilatura
 textblob
 requests
 beautifulsoup4
+Flask
+gunicorn
