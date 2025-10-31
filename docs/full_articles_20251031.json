@@ -1,0 +1,957 @@
+{
+  "date": "2025-10-31",
+  "total_articles": 95,
+  "average_severity": 74.41645567517277,
+  "articles": [
+    {
+      "keyword": "systemic racism",
+      "title": "Dr. Teona Williams '12 discusses Fannie Lou Hamer and Mississippi activism",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://bowdoinorient.com/2025/10/31/dr-teona-williams-12-discusses-fannie-lou-hamer-and-mississippi-activism/&ct=ga&cd=CAIyHGEwMWYwYjg1MTkxYTA4MDA6Y29tOmVuOlVTOlI&usg=AOvVaw3T5Y05ZlEyQNmFE77ctaTS",
+      "full_text": "Williams' talk focused on the hunger driven by systemic racism in the Mississippi Delta, which she also referred to as the hunger belt, between 1966&nbsp;...",
+      "summary": "Williams' talk focused on the hunger driven by systemic racism in the Mississippi Delta, which she also referred to as the hunger belt, between 1966&nbsp;. . .",
+      "sentiment": 0.0,
+      "severity_score": 75.0
+    },
+    {
+      "keyword": "systemic racism",
+      "title": "Kaylan A. Tanner, Author at Ms. Magazine",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://msmagazine.com/author/ktanner/&ct=ga&cd=CAIyHGEwMWYwYjg1MTkxYTA4MDA6Y29tOmVuOlVTOlI&usg=AOvVaw2jFYppEG0Fk6j_LG37soFP",
+      "full_text": "In California\u2014a state where Black women account for 21 percent of pregnancy-related deaths and just 5 percent of births\u2014systemic racism continues to&nbsp;...",
+      "summary": "In California\u2014a state where Black women account for 21 percent of pregnancy-related deaths and just 5 percent of births\u2014systemic racism continues to&nbsp;. . .",
+      "sentiment": -0.16666666666666666,
+      "severity_score": 79.16666666666667
+    },
+    {
+      "keyword": "systemic racism",
+      "title": "Did Black Lives Matter leaders defraud donors? Trump's justice dept launches probe",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.firstpost.com/world/did-black-lives-matter-leaders-defraud-donors-trumps-justice-dept-launches-probe-13946591.html&ct=ga&cd=CAIyHGEwMWYwYjg1MTkxYTA4MDA6Y29tOmVuOlVTOlI&usg=AOvVaw3x09GiGK21huSQQaBFrgg7",
+      "full_text": "and other Black-led organisations that helped spark a national reckoning on systemic racism. STORY CONTINUES BELOW THIS AD.",
+      "summary": "and other Black-led organisations that helped spark a national reckoning on systemic racism. STORY CONTINUES BELOW THIS AD. .",
+      "sentiment": -0.125,
+      "severity_score": 78.125
+    },
+    {
+      "keyword": "systemic racism",
+      "title": "DOJ investigating allegations Black Lives Matter defrauded donors - Washington Examiner",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.washingtonexaminer.com/news/justice/3870220/doj-investigation-black-lives-matter-fraud-donors/&ct=ga&cd=CAIyHGEwMWYwYjg1MTkxYTA4MDA6Y29tOmVuOlVTOlI&usg=AOvVaw0Pm1E3_adCitIrYU_CfzLO",
+      "full_text": "The report also said the DOJ is investigating \u201cother Black-led organizations that helped spark a national reckoning on systemic racism.\u201d The U.S.&nbsp;...",
+      "summary": "The report also said the DOJ is investigating \u201cother Black-led organizations that helped spark a national reckoning on systemic racism. \u201d The U. S.",
+      "sentiment": -0.125,
+      "severity_score": 78.125
+    },
+    {
+      "keyword": "systemic racism",
+      "title": "DOJ investigating possible fraud within Black Lives Matter movement - New York Post",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://nypost.com/2025/10/30/us-news/doj-investigating-possible-fraud-within-black-lives-matter-movement/&ct=ga&cd=CAIyHGEwMWYwYjg1MTkxYTA4MDA6Y29tOmVuOlVTOlI&usg=AOvVaw2qRRmZq5v-Olb3VNUAXOQ8",
+      "full_text": "... systemic racism, said the people, who were not authorized to discuss an ongoing criminal probe by name and spoke on condition of anonymity to The&nbsp;...",
+      "summary": ". . .",
+      "sentiment": -0.4,
+      "severity_score": 85.0
+    },
+    {
+      "keyword": "systemic racism",
+      "title": "Shakespeare meets the Zoot Suit Riots in Huntington Beach production - Los Angeles Times",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.latimes.com/socal/daily-pilot/news/story/2025-10-30/shakespeare-meets-the-zoot-suit-riots-in-new-huntington-beach-academy-for-the-performing-arts-production&ct=ga&cd=CAIyHGEwMWYwYjg1MTkxYTA4MDA6Y29tOmVuOlVTOlI&usg=AOvVaw2DKej4FlAcyC0ogvYkgEQS",
+      "full_text": "\u201cTo me, that is similar to what I'm still seeing happen with racial divides, divided loyalties and systemic racism, and of course what we're&nbsp;...",
+      "summary": "\u201cTo me, that is similar to what I'm still seeing happen with racial divides, divided loyalties and systemic racism, and of course what we're&nbsp;. . .",
+      "sentiment": 0.0,
+      "severity_score": 75.0
+    },
+    {
+      "keyword": "systemic racism",
+      "title": "US justice dept investigating fraud allegations in Black Lives Matter movement, AP sources say",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.ptinews.com/editor-detail/US-justice-dept-investigating-fraud-allegations-in-Black-Lives-Matter-movement-AP-sources-say/3051954&ct=ga&cd=CAIyHGEwMWYwYjg1MTkxYTA4MDA6Y29tOmVuOlVTOlI&usg=AOvVaw1TFxjGK-N258_QziSkPqTk",
+      "full_text": "... systemic racism, said the people, who were not authorised to discuss an ongoing criminal probe by name and spoke on condition of anonymity to The&nbsp;...",
+      "summary": ". . .",
+      "sentiment": -0.4,
+      "severity_score": 85.0
+    },
+    {
+      "keyword": "systemic racism",
+      "title": "Justice Department investigating fraud allegations in Black Lives Matter movement, AP sources say",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.detroitnews.com/story/news/nation/2025/10/30/justice-department-investigating-fraud-allegations-in-black-lives-matter-movement/86993806007/&ct=ga&cd=CAIyHGEwMWYwYjg1MTkxYTA4MDA6Y29tOmVuOlVTOlI&usg=AOvVaw0kGWMq6RzYA3aOrFlexrNx",
+      "full_text": "and other Black-led organizations that helped spark a national reckoning on systemic racism, said the people, who were not authorized to discuss&nbsp;...",
+      "summary": "and other Black-led organizations that helped spark a national reckoning on systemic racism, said the people, who were not authorized to discuss&nbsp;. . .",
+      "sentiment": -0.125,
+      "severity_score": 78.125
+    },
+    {
+      "keyword": "systemic racism",
+      "title": "Trump administration limits refugee admissions to mostly white South Africans. Follow live updates.",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.bostonglobe.com/2025/10/30/nation/trump-presidency-live-updates/&ct=ga&cd=CAIyHGEwMWYwYjg1MTkxYTA4MDA6Y29tOmVuOlVTOlI&usg=AOvVaw0ZNfytcQNzY_KDr0WMuw4W",
+      "full_text": "... systemic racism. The investigation invites fresh scrutiny to a foundation whose leaders in recent years have faced criticism about their public&nbsp;...",
+      "summary": ". . .",
+      "sentiment": 0.15,
+      "severity_score": 71.25
+    },
+    {
+      "keyword": "systemic racism",
+      "title": "Two New Laws Could Transform Black Maternal Health in California, If We Get Implementation Right",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://msmagazine.com/2025/10/30/black-maternal-health-california-ab-260-55-sexual-reproductive-health-care-freedom-birth-act/&ct=ga&cd=CAIyHGEwMWYwYjg1MTkxYTA4MDA6Y29tOmVuOlVTOlI&usg=AOvVaw2TGqjgbg1GDXs29Zz5VUCl",
+      "full_text": "In a state where Black women account for 21 percent of pregnancy-related deaths and just 5 percent of births, systemic racism continues to shape&nbsp;...",
+      "summary": "In a state where Black women account for 21 percent of pregnancy-related deaths and just 5 percent of births, systemic racism continues to shape&nbsp;. . .",
+      "sentiment": -0.16666666666666666,
+      "severity_score": 79.16666666666667
+    },
+    {
+      "keyword": "systemic racism",
+      "title": "Chief of defence staff offers apology for military's history of racial discrimination",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://lethbridgeherald.com/news/national-news/2025/10/30/chief-of-defence-staff-offers-apology-for-militarys-history-of-racial-discrimination/&ct=ga&cd=CAIyHGEwMWYwYjg1MTkxYTA4MDA6Y29tOmVuOlVTOlI&usg=AOvVaw2kogKmGa3gc3N8kQZAiD8v",
+      "full_text": "\u201cIt is under the shadow of ignorance regarding systemic racism that individual racist activity and attitudes flourish,\u201d Carignan said. \u201cWe will&nbsp;...",
+      "summary": "\u201cIt is under the shadow of ignorance regarding systemic racism that individual racist activity and attitudes flourish,\u201d Carignan said. \u201cWe will&nbsp;. .",
+      "sentiment": 0.0,
+      "severity_score": 75.0
+    },
+    {
+      "keyword": "systemic racism",
+      "title": "Chief of defence staff offers apology for military's history of racial discrimination",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.coastreporter.net/national-news/chief-of-defence-staff-offers-apology-for-militarys-history-of-racial-discrimination-11422656&ct=ga&cd=CAIyHGEwMWYwYjg1MTkxYTA4MDA6Y29tOmVuOlVTOlI&usg=AOvVaw2SY_2ushgAk7Uu9qZhqqyz",
+      "full_text": "&quot;It is under the shadow of ignorance regarding systemic racism that individual racist activity and attitudes flourish,&quot; Carignan said. &quot;We will&nbsp;...",
+      "summary": "&quot;It is under the shadow of ignorance regarding systemic racism that individual racist activity and attitudes flourish,&quot; Carignan said. &quot;We will&nbsp;. .",
+      "sentiment": 0.0,
+      "severity_score": 75.0
+    },
+    {
+      "keyword": "systemic racism",
+      "title": "Federal government has spent more than $15M fighting Black class-action lawsuit - Delta Optimist",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.delta-optimist.com/national-news/federal-government-has-spent-more-than-15m-fighting-black-class-action-lawsuit-11422357&ct=ga&cd=CAIyHGEwMWYwYjg1MTkxYTA4MDA6Y29tOmVuOlVTOlI&usg=AOvVaw3_DMuttRnOnwC_igBtFtRd",
+      "full_text": "The proposed class action lawsuit was launched by Black public servants in 2020 who alleged systemic racism within the public service. A Federal&nbsp;...",
+      "summary": "The proposed class action lawsuit was launched by Black public servants in 2020 who alleged systemic racism within the public service. A Federal&nbsp;. .",
+      "sentiment": -0.03333333333333333,
+      "severity_score": 75.83333333333334
+    },
+    {
+      "keyword": "systemic racism",
+      "title": "Ben &amp; Jerry's Hippie Co-Founder Explains Why He Created A Palestine-Themed Ice Cream",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.outkick.com/culture/ben-jerrys-hippie-co-founder-creates-palestine-ice-cream-one-wokest-moves-woke-history&ct=ga&cd=CAIyHGEwMWYwYjg1MTkxYTA4MDA6Y29tOmVuOlVTOlI&usg=AOvVaw30A2K8lC31OOEEncGelEaS",
+      "full_text": "But today, we are still living with systemic racism and the legacy of slavery. We will not stop fighting for an America where there truly is&nbsp;...",
+      "summary": "But today, we are still living with systemic racism and the legacy of slavery. We will not stop fighting for an America where there truly is&nbsp;. .",
+      "sentiment": 0.0,
+      "severity_score": 75.0
+    },
+    {
+      "keyword": "systemic racism",
+      "title": "2025 Double Exposure Festival: Interrogating New Fault Lines on Lethal Inequity, Human ...",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://gijn.org/stories/2025-double-exposure-festival/&ct=ga&cd=CAIyHGEwMWYwYjg1MTkxYTA4MDA6Y29tOmVuOlVTOlI&usg=AOvVaw0RftQm9bxfFIKnfC7oTWtS",
+      "full_text": "The prominent role of systemic racism becomes an unavoidable truth when the film asks viewers to consider that Black women also face much higher&nbsp;...",
+      "summary": "The prominent role of systemic racism becomes an unavoidable truth when the film asks viewers to consider that Black women also face much higher&nbsp;. . .",
+      "sentiment": 0.1777777777777778,
+      "severity_score": 70.55555555555556
+    },
+    {
+      "keyword": "white supremacy",
+      "title": "Visiting poet Danez Smith discusses race, gender and bringing art into the world at reading",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://bowdoinorient.com/2025/10/31/visiting-poet-danez-smith-discusses-race-gender-and-bringing-art-into-the-world-at-reading/&ct=ga&cd=CAIyHDQxMWE1YzIxYzQ0YzYxZjA6Y29tOmVuOlVTOlI&usg=AOvVaw1_x_In5zx0rRmKOm7fY-RN",
+      "full_text": "\u201cIt felt like a very tumultuous time in Oakland. I remember being in a lot of protests. But the problem with white supremacy and police violence in&nbsp;...",
+      "summary": "\u201cIt felt like a very tumultuous time in Oakland. I remember being in a lot of protests. But the problem with white supremacy and police violence in&nbsp;.",
+      "sentiment": 0.1,
+      "severity_score": 72.5
+    },
+    {
+      "keyword": "white supremacy",
+      "title": "Poetry is Not an Expression of the Party Line - CounterPunch.org",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.counterpunch.org/2025/10/31/poetry-is-not-an-expression-of-the-party-line/&ct=ga&cd=CAIyHDQxMWE1YzIxYzQ0YzYxZjA6Y29tOmVuOlVTOlI&usg=AOvVaw3Z7rcBisGP24f3YET5bMG8",
+      "full_text": "... white supremacy. In between his lessons of history are more personal meditations on family, geography, love and Pink Floyd's composition Atom&nbsp;...",
+      "summary": ". . .",
+      "sentiment": 0.18,
+      "severity_score": 70.5
+    },
+    {
+      "keyword": "white supremacy",
+      "title": "Supt. Tony Thurmond tackles education, Prop. 50, ICE raids, Trump, and the race for CA. Governor",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3Dn8OHmWif42c&ct=ga&cd=CAIyHDQxMWE1YzIxYzQ0YzYxZjA6Y29tOmVuOlVTOlI&usg=AOvVaw0jkr5diSllXDHTbRxJnNq7",
+      "full_text": "The Hidden Roots of White Supremacy. Center on Faith and Justice\u2022174K views &middot; 23:33 &middot; Go to channel &middot; Police pursue carjacking suspects in L.A..",
+      "summary": "The Hidden Roots of White Supremacy. Center on Faith and Justice\u2022174K views &middot; 23:33 &middot; Go to channel &middot; Police pursue carjacking suspects in L. A.",
+      "sentiment": -0.08888888888888889,
+      "severity_score": 77.22222222222223
+    },
+    {
+      "keyword": "white supremacy",
+      "title": "The Lynching of L. Q. Ivy: Not for the Squeamish or Sensitive - William Spivey",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://williamspivey.medium.com/the-lynching-of-l-q-ivy-not-for-the-squeamish-or-sensitive-5041784b5786&ct=ga&cd=CAIyHDQxMWE1YzIxYzQ0YzYxZjA6Y29tOmVuOlVTOlI&usg=AOvVaw3iAU9jw0XyaDC6ZHO2z5hd",
+      "full_text": "L. Q. Ivy's murder was not just a lynching \u2014 it was a public ritual of racial terror designed to enforce white supremacy. The brutality, scale, and&nbsp;...",
+      "summary": "L. Q. Ivy's murder was not just a lynching \u2014 it was a public ritual of racial terror designed to enforce white supremacy.",
+      "sentiment": 0.0,
+      "severity_score": 75.0
+    },
+    {
+      "keyword": "white supremacy",
+      "title": "Lonsberry: WHICH JUDGE CANDIDATE SHOULD YOU VOTE FOR? | NewsRadio WHAM ...",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://wham1180.iheart.com/featured/bob-lonsberry/content/2025-10-30-lonsberry-which-judge-candidate-should-you-vote-for/&ct=ga&cd=CAIyHDQxMWE1YzIxYzQ0YzYxZjA6Y29tOmVuOlVTOlI&usg=AOvVaw2ORNYewJ9BDU9oheBJCycy",
+      "full_text": "If you think the cops and courts are the enforcers of white supremacy, vote Democrat. If you think releasing people without bail is a good idea&nbsp;...",
+      "summary": "If you think the cops and courts are the enforcers of white supremacy, vote Democrat. If you think releasing people without bail is a good idea&nbsp;. .",
+      "sentiment": 0.35,
+      "severity_score": 66.25
+    },
+    {
+      "keyword": "white supremacy",
+      "title": "The left wins the presidential election in Ireland by a landslide | MR Online",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://mronline.org/2025/10/30/the-left-wins-the-presidential-election-in-ireland-by-a-landslide/&ct=ga&cd=CAIyHDQxMWE1YzIxYzQ0YzYxZjA6Y29tOmVuOlVTOlI&usg=AOvVaw0JL66f4rydX6p0yztHE-ii",
+      "full_text": "... White Supremacy and Barbaric State Violence. Also by Vijay Prashad &middot; The left wins the presidential election in Ireland by a landslide by Vijay&nbsp;...",
+      "summary": ". . .",
+      "sentiment": 0.09999999999999999,
+      "severity_score": 72.5
+    },
+    {
+      "keyword": "white supremacy",
+      "title": "Legal Advocacy Stops a Racially Exclusionary Scholarship at UC San Diego",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://californiaglobe.com/fr/legal-advocacy-stops-a-racially-exclusionary-scholarship-at-uc-san-diego/&ct=ga&cd=CAIyHDQxMWE1YzIxYzQ0YzYxZjA6Y29tOmVuOlVTOlI&usg=AOvVaw0__YPosSpSl1HP1QpUoHAd",
+      "full_text": "Advocating for equality with the anti-KKK law, once intended to challenge rampant white supremacy in post-Civil-War American south, is ironically&nbsp;...",
+      "summary": "Advocating for equality with the anti-KKK law, once intended to challenge rampant white supremacy in post-Civil-War American south, is ironically&nbsp;. . .",
+      "sentiment": 0.0,
+      "severity_score": 75.0
+    },
+    {
+      "keyword": "white supremacy",
+      "title": "Trump Ripped for 'Absurdly Low' and 'Racist' Refugee Cap Prioritizing White South Africans",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.commondreams.org/news/trump-south-african-refugees&ct=ga&cd=CAIyHDQxMWE1YzIxYzQ0YzYxZjA6Y29tOmVuOlVTOlI&usg=AOvVaw3Vuqsf35l3AWeSwe9BGdyt",
+      "full_text": "&quot;Let's call this what it is\u2014white supremacy disguised as refugee policy,&quot; said the head of the Haitian Bridge Alliance. Jessica Corbett. Oct 30&nbsp;...",
+      "summary": "&quot;Let's call this what it is\u2014white supremacy disguised as refugee policy,&quot; said the head of the Haitian Bridge Alliance. Jessica Corbett. Oct 30&nbsp;.",
+      "sentiment": 0.0,
+      "severity_score": 75.0
+    },
+    {
+      "keyword": "white supremacy",
+      "title": "Judge blocks investigation of 'QueerDoc' group that targets gender-confused Alaska youth",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://alaskawatchman.com/2025/10/30/judge-blocks-investigation-of-queerdoc-group-that-targets-gender-confused-alaska-youth/&ct=ga&cd=CAIyHDQxMWE1YzIxYzQ0YzYxZjA6Y29tOmVuOlVTOlI&usg=AOvVaw20BNbyzzlXHJOlNHjY9afr",
+      "full_text": "... white supremacy and corporate power. \u201cThe fight for trans rights is bound up with the fight for immigrant justice, Indigenous sovereignty, Black&nbsp;...",
+      "summary": ". . .",
+      "sentiment": 0.0,
+      "severity_score": 75.0
+    },
+    {
+      "keyword": "white supremacy",
+      "title": "Bangor City Council will vote whether to censure Joe Leonard a 3rd time",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.bangordailynews.com/2025/10/30/bangor/bangor-government/bangor-city-council-joe-leonard-censure-3rd-vote-n6hjn1me0n/&ct=ga&cd=CAIyHDQxMWE1YzIxYzQ0YzYxZjA6Y29tOmVuOlVTOlI&usg=AOvVaw1koLCmqFcmRyoogj4Nmrj6",
+      "full_text": "... white supremacy and neo-Nazism. Leonard interjected to denounce the comments, speaking over Fournier. \u201cAll the hate mongers out there \u2026 you people&nbsp;...",
+      "summary": ". . .",
+      "sentiment": -0.4,
+      "severity_score": 85.0
+    },
+    {
+      "keyword": "white supremacy",
+      "title": "October 2025 Intelligence Project Dispatch: Trends and incidents of the hard right",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.splcenter.org/resources/hatewatch/october-2025-intelligence-project-dispatch/&ct=ga&cd=CAIyHDQxMWE1YzIxYzQ0YzYxZjA6Y29tOmVuOlVTOlI&usg=AOvVaw3dlcbuQRUFc6DOvWk3Vohh",
+      "full_text": "The Southern Poverty Law Center works to dismantle white supremacy in public forums and online, exposes hate and anti-democracy extremism,&nbsp;...",
+      "summary": "The Southern Poverty Law Center works to dismantle white supremacy in public forums and online, exposes hate and anti-democracy extremism,&nbsp;. . .",
+      "sentiment": -0.18,
+      "severity_score": 79.5
+    },
+    {
+      "keyword": "white supremacy",
+      "title": "Human Rights Crisis in the U.S.: White Supremacy's Comeback Tour - Amnesty International",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.amnestyusa.org/blog/human-rights-crisis-in-the-u-s-white-supremacys-comeback-tour/&ct=ga&cd=CAIyHDQxMWE1YzIxYzQ0YzYxZjA6Y29tOmVuOlVTOlI&usg=AOvVaw1wPRsnBgBMyUMtPKCeuiTE",
+      "full_text": "The Trump administration's dismantling of the rule of law and civil society attacks, bolstered by the tenets of white supremacy,&nbsp;...",
+      "summary": "The Trump administration's dismantling of the rule of law and civil society attacks, bolstered by the tenets of white supremacy,&nbsp;. . .",
+      "sentiment": 0.0,
+      "severity_score": 75.0
+    },
+    {
+      "keyword": "white supremacy",
+      "title": "Megyn Kelly Objects to Sydney Sweeney's Latest Red Carpet Look: Draw the Line at Areola",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.thewrap.com/megyn-kelly-sydney-sweeney-red-carpet-look/&ct=ga&cd=CAIyHDQxMWE1YzIxYzQ0YzYxZjA6Y29tOmVuOlVTOlI&usg=AOvVaw2YBUQrWGmo7o8F2y0jvm23",
+      "full_text": "\u201cShe's advertising jeans, and yet the lunatics on the left think she's advertising white supremacy. This is obviously a reference to her body and&nbsp;...",
+      "summary": "\u201cShe's advertising jeans, and yet the lunatics on the left think she's advertising white supremacy. This is obviously a reference to her body and&nbsp;. .",
+      "sentiment": 0.0,
+      "severity_score": 75.0
+    },
+    {
+      "keyword": "white supremacy",
+      "title": "A War of Ideas: The unrelenting propaganda of the Lost Cause mythology",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.splcenter.org/resources/hatewatch/investigative-update-lost-cause-mythology-propaganda/&ct=ga&cd=CAIyHDQxMWE1YzIxYzQ0YzYxZjA6Y29tOmVuOlVTOlI&usg=AOvVaw1rAp7zCjWRI_KK_bnVk9RZ",
+      "full_text": "Defeated on the battlefield, former Confederates believed they could nonetheless secure a victory for white supremacy \u2014 the true Confederate cause&nbsp;...",
+      "summary": "Defeated on the battlefield, former Confederates believed they could nonetheless secure a victory for white supremacy \u2014 the true Confederate cause&nbsp;. . .",
+      "sentiment": 0.1875,
+      "severity_score": 70.3125
+    },
+    {
+      "keyword": "white supremacy",
+      "title": "Life lessons from civil rights advocate Alice Green - Adirondack Almanack",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.adirondackexplorer.org/almanack-adirondacks/life-lessons-from-alice-green/&ct=ga&cd=CAIyHDQxMWE1YzIxYzQ0YzYxZjA6Y29tOmVuOlVTOlI&usg=AOvVaw02IuLxt029pKrJz5VBnVTw",
+      "full_text": "... white supremacy narrative, which has taken years to overcome. Unfortunately, it has never totally disappeared, but I continue to destroy the myth&nbsp;...",
+      "summary": ". . .",
+      "sentiment": -0.175,
+      "severity_score": 79.375
+    },
+    {
+      "keyword": "white supremacy",
+      "title": "Shock and Awe, the White Supremacy Version - Paul Waldman | Substack",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://paulwaldman.substack.com/p/shock-and-awe-the-white-supremacy&ct=ga&cd=CAIyHDQxMWE1YzIxYzQ0YzYxZjA6Y29tOmVuOlVTOlI&usg=AOvVaw2WONZYXNetr8fAOcBCRB8I",
+      "full_text": "Shock and Awe, the White Supremacy Version. The Trump administration wants to roll back the clock to before the civil rights movement.",
+      "summary": "Shock and Awe, the White Supremacy Version. The Trump administration wants to roll back the clock to before the civil rights movement. .",
+      "sentiment": 0.06666666666666667,
+      "severity_score": 73.33333333333333
+    },
+    {
+      "keyword": "white supremacy",
+      "title": "No Time for Church As Usual: Black Christians Must Meet This Moment",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://wordinblack.com/2025/10/no-time-for-church-as-usual-black-christians/&ct=ga&cd=CAIyHDQxMWE1YzIxYzQ0YzYxZjA6Y29tOmVuOlVTOlI&usg=AOvVaw1sXy5bBrJyqvq4naMHcOiW",
+      "full_text": "What should our relationship with White supremacy look like through the lens of our faith? It's a timely question, not just because of Kirk's well&nbsp;...",
+      "summary": "What should our relationship with White supremacy look like through the lens of our faith? It's a timely question, not just because of Kirk's well&nbsp;. . .",
+      "sentiment": 0.0,
+      "severity_score": 75.0
+    },
+    {
+      "keyword": "white supremacy",
+      "title": "At Berkeley, 1619 Lives on As Part of US Immigration Policy | FAIRUS.org",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.fairus.org/opinion/berkeley-1619-lives-part-us-immigration-policy&ct=ga&cd=CAIyHDQxMWE1YzIxYzQ0YzYxZjA6Y29tOmVuOlVTOlI&usg=AOvVaw0HOFETbpdN5FBiVwpWbTNY",
+      "full_text": "The basic premise of \u201cThe 1619 Project\u201d \u2013 that maintenance of white supremacy is part of the DNA of America \u2013 extends to how the topic of immigration&nbsp;...",
+      "summary": "The basic premise of \u201cThe 1619 Project\u201d \u2013 that maintenance of white supremacy is part of the DNA of America \u2013 extends to how the topic of immigration&nbsp;. . .",
+      "sentiment": 0.0,
+      "severity_score": 75.0
+    },
+    {
+      "keyword": "white supremacy",
+      "title": "Assata Shakur's autobiography sees resurgence after her passing - Amsterdam News",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://amsterdamnews.com/news/2025/10/30/assatashakur-autobiography-seesresurgence-after-passing/&ct=ga&cd=CAIyHDQxMWE1YzIxYzQ0YzYxZjA6Y29tOmVuOlVTOlI&usg=AOvVaw0bpax0l39xSU4DCx2nNWuQ",
+      "full_text": "... white supremacy and systemic injustice. Support our Racial Justice Journalism. Since 1909, bringing you the news that mainstream media just doesn't&nbsp;...",
+      "summary": ". . .",
+      "sentiment": 0.0,
+      "severity_score": 75.0
+    },
+    {
+      "keyword": "white supremacy",
+      "title": "CAIR-NY Welcomes Arrest of Suspect in Spree of Anti-Asian Attacks",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.cair-ny.org/news/10/30/25/cair-ny-welcomes-arrest-of-suspect-in-spree-of-anti-asian-attacks&ct=ga&cd=CAIyHDQxMWE1YzIxYzQ0YzYxZjA6Y29tOmVuOlVTOlI&usg=AOvVaw2pHOleJ5ZjRye3vilrMIc8",
+      "full_text": "... white supremacy, and all other forms of bigotry. CAIR-NY's mission is to protect civil rights, enhance understanding of Islam, promote justice&nbsp;...",
+      "summary": ". . .",
+      "sentiment": -0.0625,
+      "severity_score": 76.5625
+    },
+    {
+      "keyword": "MAGA",
+      "title": "Senate poll: Ossoff riding high in Georgia; MAGA firebrand leads GOP field.",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.ajc.com/politics/2025/10/senate-poll-ossoff-riding-high-in-georgia-maga-firebrand-leads-gop-field/&ct=ga&cd=CAIyGmEzMjMwZDg4N2M0MDhmOWE6Y29tOmVuOlVT&usg=AOvVaw0mg20SBKwEwifMYoWT5fyu",
+      "full_text": "Senate poll: Ossoff riding high in Georgia; MAGA firebrand leads GOP field &middot; AJC Poll: U.S. Senate Republican primary election &middot; AJC poll: Jon Ossoff&nbsp;...",
+      "summary": "Senate poll: Ossoff riding high in Georgia; MAGA firebrand leads GOP field &middot; AJC Poll: U. S. Senate Republican primary election &middot; AJC poll: Jon Ossoff&nbsp;.",
+      "sentiment": 0.28,
+      "severity_score": 68.0
+    },
+    {
+      "keyword": "MAGA",
+      "title": "Trump Goon Frank Bisignano's MAGA Gig Saved Him $300M - The Daily Beast",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.thedailybeast.com/trump-goon-frank-bisignanos-maga-gig-saved-him-300m/&ct=ga&cd=CAIyGmEzMjMwZDg4N2M0MDhmOWE6Y29tOmVuOlVT&usg=AOvVaw1ls4s1-fgraWdgGM2GyXKB",
+      "full_text": "Trump Goon's MAGA Gig Saved Him $300M &middot; Frank Bisignano, who divested from his company earlier this year, is accused of misleading investors. &middot; Sign Up&nbsp;...",
+      "summary": "Trump Goon's MAGA Gig Saved Him $300M &middot; Frank Bisignano, who divested from his company earlier this year, is accused of misleading investors. &middot; Sign Up&nbsp;. .",
+      "sentiment": 0.0,
+      "severity_score": 75.0
+    },
+    {
+      "keyword": "MAGA",
+      "title": "JD Vance faces pressure from MAGA over Hindu wife Usha Vance - YouTube",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3Dl0qQI2lKMNc&ct=ga&cd=CAIyGmEzMjMwZDg4N2M0MDhmOWE6Y29tOmVuOlVT&usg=AOvVaw2KYHF-MdAwfvZzb57CF3rR",
+      "full_text": "JD Vance faces pressure from MAGA over Hindu wife Usha Vance. 11 views \u00b7 3 minutes ago #jdvance #ushavance #interfaithfamily ...more. Indiatimes. 1M.",
+      "summary": "JD Vance faces pressure from MAGA over Hindu wife Usha Vance. 11 views \u00b7 3 minutes ago #jdvance #ushavance #interfaithfamily . .",
+      "sentiment": 0.0,
+      "severity_score": 75.0
+    },
+    {
+      "keyword": "MAGA",
+      "title": "Trump's war on Venezuela is an extension of his domestic MAGA agenda",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://indianexpress.com/article/opinion/columns/trumps-war-on-venezuela-is-an-extension-of-his-domestic-maga-agenda-10337638/&ct=ga&cd=CAIyGmEzMjMwZDg4N2M0MDhmOWE6Y29tOmVuOlVT&usg=AOvVaw1niyPWRv8ycIQJ-pD4TDHl",
+      "full_text": "His MAGA base is obsessed with drugs, crime, and national humiliation, and not geopolitics. Hence, Trump, who in his first presidency attempted to&nbsp;...",
+      "summary": "His MAGA base is obsessed with drugs, crime, and national humiliation, and not geopolitics. Hence, Trump, who in his first presidency attempted to&nbsp;. .",
+      "sentiment": -0.35000000000000003,
+      "severity_score": 83.75
+    },
+    {
+      "keyword": "MAGA",
+      "title": "How MAGA borrowed left-wing revolutionary ideas to reshape the right - Business Standard",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.business-standard.com/world-news/how-maga-borrowed-left-wing-revolutionary-ideas-to-reshape-the-right-125103100528_1.html&ct=ga&cd=CAIyGmEzMjMwZDg4N2M0MDhmOWE6Y29tOmVuOlVT&usg=AOvVaw2kmxnpFbymEDzpT6GVQXvn",
+      "full_text": "You may never have heard of Sam Francis, but MAGA people (at least the more intellectual ones) know him as one of the seminal thinkers of their&nbsp;...",
+      "summary": "You may never have heard of Sam Francis, but MAGA people (at least the more intellectual ones) know him as one of the seminal thinkers of their&nbsp;. . .",
+      "sentiment": 0.16666666666666666,
+      "severity_score": 70.83333333333334
+    },
+    {
+      "keyword": "MAGA",
+      "title": "MAGA Firebrand Marjorie Taylor Greene To Wrangle With Liberal Ladies of ABC's 'The ...",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.nysun.com/article/maga-firebrand-marjorie-taylor-greene-to-wrangle-with-liberal-ladies-of-abcs-the-view-next-week&ct=ga&cd=CAIyGmEzMjMwZDg4N2M0MDhmOWE6Y29tOmVuOlVT&usg=AOvVaw113h9nBjwm-vU7mAv0atRW",
+      "full_text": "MAGA Firebrand Marjorie Taylor Greene To Wrangle With Liberal Ladies of ABC's 'The View' Next Week. The Georgia congresswoman is complaining that&nbsp;...",
+      "summary": "MAGA Firebrand Marjorie Taylor Greene To Wrangle With Liberal Ladies of ABC's 'The View' Next Week. The Georgia congresswoman is complaining that&nbsp;. .",
+      "sentiment": 0.0,
+      "severity_score": 75.0
+    },
+    {
+      "keyword": "MAGA",
+      "title": "MAGA strategist's Trump defense backfires as CNN panel fact-checks claims to her face",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.alternet.org/send/maga-strategist-trump/&ct=ga&cd=CAIyGmEzMjMwZDg4N2M0MDhmOWE6Y29tOmVuOlVT&usg=AOvVaw0Vgv8nmwt24fzHgPQBdRba",
+      "full_text": "A MAGA strategist's attempts to claim President Donald Trump was &quot;fighting for soybean farmers&quot; were met with a &quot;brutal smackdown&quot; by a CNN&nbsp;...",
+      "summary": "A MAGA strategist's attempts to claim President Donald Trump was &quot;fighting for soybean farmers&quot; were met with a &quot;brutal smackdown&quot; by a CNN&nbsp;. . .",
+      "sentiment": 0.0,
+      "severity_score": 75.0
+    },
+    {
+      "keyword": "MAGA",
+      "title": "Jordan Klepper on finding the humanity in talking across the political divide - The Boston Globe",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.bostonglobe.com/2025/10/30/arts/jordan-klepper/&ct=ga&cd=CAIyGmEzMjMwZDg4N2M0MDhmOWE6Y29tOmVuOlVT&usg=AOvVaw0NfwYQ7s70Uq3numMJlBdM",
+      "full_text": "It's eight years later. &middot; Since he's best known for his man-on-the-street interviews with diehard Trump supporters at MAGA rallies, it seemed apt to&nbsp;...",
+      "summary": "It's eight years later. &middot; Since he's best known for his man-on-the-street interviews with diehard Trump supporters at MAGA rallies, it seemed apt to&nbsp;. .",
+      "sentiment": 0.5333333333333333,
+      "severity_score": 61.666666666666664
+    },
+    {
+      "keyword": "MAGA",
+      "title": "MAGA Influencers Irate Over ESPN's Ryan Clark Trashing Louisiana Governor for ... - Yahoo",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.yahoo.com/news/articles/maga-influencers-irate-over-espn-205755327.html&ct=ga&cd=CAIyGmEzMjMwZDg4N2M0MDhmOWE6Y29tOmVuOlVT&usg=AOvVaw2c6uFJEaGVI4z-e30uE7h6",
+      "full_text": "MAGA Influencers Irate Over ESPN's Ryan Clark Trashing Louisiana Governor for Proposing a Charlie Kirk Statue at LSU. Mediaite. Thu, October 30&nbsp;...",
+      "summary": "MAGA Influencers Irate Over ESPN's Ryan Clark Trashing Louisiana Governor for Proposing a Charlie Kirk Statue at LSU. Mediaite. Thu, October 30&nbsp;.",
+      "sentiment": 0.0,
+      "severity_score": 75.0
+    },
+    {
+      "keyword": "MAGA",
+      "title": "MAGA has consigned the Reagan Revolution to \u201cthe ash-heap of history\u201d - Yahoo",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.yahoo.com/news/articles/maga-consigned-reagan-revolution-ash-131434119.html&ct=ga&cd=CAIyGmEzMjMwZDg4N2M0MDhmOWE6Y29tOmVuOlVT&usg=AOvVaw2kNll8lkLa4-7Ewg5NXFXC",
+      "full_text": "Either its board has gone so MAGA that they have been deluded into believing the man they purport to honor and defend was a big tariff-lover, or they&nbsp;...",
+      "summary": "Either its board has gone so MAGA that they have been deluded into believing the man they purport to honor and defend was a big tariff-lover, or they&nbsp;. . .",
+      "sentiment": 0.0,
+      "severity_score": 75.0
+    },
+    {
+      "keyword": "MAGA",
+      "title": "Tesla May Have Sold a Million Fewer Cars Because of Elon Musk's Toxic Politics",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.rollingstone.com/culture/culture-news/elon-musk-trump-tesla-million-fewer-cars-1235457125/&ct=ga&cd=CAIyGmEzMjMwZDg4N2M0MDhmOWE6Y29tOmVuOlVT&usg=AOvVaw3t8v1s4NworcGI6eCImjjV",
+      "full_text": "These losses far outstripped any gains Tesla might have made with Republican buyers as a result of Musk's MAGA activism, per the report. In the&nbsp;...",
+      "summary": "These losses far outstripped any gains Tesla might have made with Republican buyers as a result of Musk's MAGA activism, per the report. In the&nbsp;. .",
+      "sentiment": 0.1,
+      "severity_score": 72.5
+    },
+    {
+      "keyword": "MAGA",
+      "title": "One of the Most Dangerous Interviews Ever in MAGA Media - The Bulwark",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.thebulwark.com/p/one-of-the-most-dangerous-interviews-ever-maga-media-tucker-carlson-nick-fuentes/comments&ct=ga&cd=CAIyGmEzMjMwZDg4N2M0MDhmOWE6Y29tOmVuOlVT&usg=AOvVaw3OQCNFVcLiiHg4qTNg1GrN",
+      "full_text": "Does MAGA acknowledge the disconnect between Trump's punishing elite universities for their supposed anti-semitism and Carlson's platforming Fuentes?",
+      "summary": "Does MAGA acknowledge the disconnect between Trump's punishing elite universities for their supposed anti-semitism and Carlson's platforming Fuentes?.",
+      "sentiment": 0.0,
+      "severity_score": 75.0
+    },
+    {
+      "keyword": "MAGA",
+      "title": "Ruben Navarrette: MAGA movement can't quit racial politics - West Central Tribune",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.wctrib.com/opinion/columns/ruben-navarrette-maga-movement-cant-quit-racial-politics&ct=ga&cd=CAIyGmEzMjMwZDg4N2M0MDhmOWE6Y29tOmVuOlVT&usg=AOvVaw2oJVf-JU_foB2E4OQXHRen",
+      "full_text": "From the commentary, &quot;... The MAGA mob made it clear that they resent it when they're called racist. ... Then they ought to cleanse their movement&nbsp;...",
+      "summary": "From the commentary, &quot;. . .",
+      "sentiment": 0.10000000000000002,
+      "severity_score": 72.5
+    },
+    {
+      "keyword": "MAGA",
+      "title": "Former MAGA loyalists say what finally made them dump Trump - Knewz",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://knewz.com/former-maga-loyalists-dump-donald-trump/&ct=ga&cd=CAIyGmEzMjMwZDg4N2M0MDhmOWE6Y29tOmVuOlVT&usg=AOvVaw3PJL5i_1PekBmWaCmQUXJ7",
+      "full_text": "Former MAGA loyalists say what finally made them dump Trump. Advertisement. By Joshua Wilburn. |. 1 hour ago. |. READ TIME: 2 Minutes, 5 Seconds.",
+      "summary": "Former MAGA loyalists say what finally made them dump Trump. Advertisement. By Joshua Wilburn.",
+      "sentiment": 0.0,
+      "severity_score": 75.0
+    },
+    {
+      "keyword": "MAGA",
+      "title": "Historian Heather Cox Richardson on MAGA's Replay of the 1920s - Zeteo",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://zeteo.com/p/historian-heather-cox-richardson&ct=ga&cd=CAIyGmEzMjMwZDg4N2M0MDhmOWE6Y29tOmVuOlVT&usg=AOvVaw1-9C9TjJLizgFtx4t015IX",
+      "full_text": "Historian Heather Cox Richardson on MAGA's Replay of the 1920s. Familiar and reactionary themes of the American story - on race, immigration&nbsp;...",
+      "summary": "Historian Heather Cox Richardson on MAGA's Replay of the 1920s. Familiar and reactionary themes of the American story - on race, immigration&nbsp;. .",
+      "sentiment": 0.1875,
+      "severity_score": 70.3125
+    },
+    {
+      "keyword": "MAGA",
+      "title": "End MAGA's fascist assault on African American communities! - Communist Party USA",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.cpusa.org/article/end-magas-fascist-assault-on-african-american-communities/&ct=ga&cd=CAIyGmEzMjMwZDg4N2M0MDhmOWE6Y29tOmVuOlVT&usg=AOvVaw1nWAG6CA0dHm7983U5Xydz",
+      "full_text": "MAGA and Trump claimed that the shooter was of the political left, while facts showed otherwise. Kirk's organization, Turning Point USA, has since&nbsp;...",
+      "summary": "MAGA and Trump claimed that the shooter was of the political left, while facts showed otherwise. Kirk's organization, Turning Point USA, has since&nbsp;. .",
+      "sentiment": 0.0,
+      "severity_score": 75.0
+    },
+    {
+      "keyword": "MAGA",
+      "title": "Proof These MAGA Republicans Are Turning on Each Other - The Root",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.theroot.com/proof-these-maga-republicans-are-turning-on-each-other-2000070417&ct=ga&cd=CAIyGmEzMjMwZDg4N2M0MDhmOWE6Y29tOmVuOlVT&usg=AOvVaw3kI40ppwCIwCYveSXvKMQh",
+      "full_text": "Here are 13 times MAGA just couldn't get it together! Ted Cruz vs. Marjorie Taylor Greene. ATLANTA, GEORGIA \u2013 OCTOBER 15: U.S. Rep. Marjorie Taylor&nbsp;...",
+      "summary": "Here are 13 times MAGA just couldn't get it together! Ted Cruz vs. Marjorie Taylor Greene. ATLANTA, GEORGIA \u2013 OCTOBER 15: U.",
+      "sentiment": 0.0,
+      "severity_score": 75.0
+    },
+    {
+      "keyword": "MAGA",
+      "title": "Cheryl Hines reveals where she stands with 'Curb' co-star Larry David - New York Post",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://nypost.com/2025/10/29/entertainment/cheryl-hines-reveals-where-she-stands-with-curb-co-star-larry-david/&ct=ga&cd=CAIyGmEzMjMwZDg4N2M0MDhmOWE6Y29tOmVuOlVT&usg=AOvVaw0ErjmXkm1p6-TWlNmRHAbb",
+      "full_text": "Cheryl Hines reveals where she stands with 'Curb Your Enthusiasm' co-star Larry David after going 'MAGA'. By. Connor Surmonte. Published Oct. 29&nbsp;...",
+      "summary": "Cheryl Hines reveals where she stands with 'Curb Your Enthusiasm' co-star Larry David after going 'MAGA'. By. Connor Surmonte.",
+      "sentiment": 0.0,
+      "severity_score": 75.0
+    },
+    {
+      "keyword": "MAGA",
+      "title": "MTG announces she is going on 'The View' as feud with Mike Johnson goes full boil",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.the-independent.com/news/world/americas/us-politics/marjorie-taylor-greene-the-view-government-shutdown-b2855613.html&ct=ga&cd=CAIyGmEzMjMwZDg4N2M0MDhmOWE6Y29tOmVuOlVT&usg=AOvVaw2dVXywSbfwHIcou0fP3d1Y",
+      "full_text": "MTG rocks MAGA with announcement she is going on 'The View' as blood feud with Mike Johnson and GOP leaders goes full boil. The right-wing firebrand&nbsp;...",
+      "summary": "MTG rocks MAGA with announcement she is going on 'The View' as blood feud with Mike Johnson and GOP leaders goes full boil. The right-wing firebrand&nbsp;. .",
+      "sentiment": 0.35,
+      "severity_score": 66.25
+    },
+    {
+      "keyword": "MAGA",
+      "title": "Opinion | Hey, Lefties! Trump Has Stolen Your Game. - The New York Times",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.nytimes.com/2025/10/30/opinion/trump-conservatives-progressives.html&ct=ga&cd=CAIyGmEzMjMwZDg4N2M0MDhmOWE6Y29tOmVuOlVT&usg=AOvVaw390UP03Ot7aNqyg5DNwA5T",
+      "full_text": "MAGA believes America has been ruled by a dictatorship of the educated elites. Lenin realized you can use a vanguard to seize power and utterly&nbsp;...",
+      "summary": "MAGA believes America has been ruled by a dictatorship of the educated elites. Lenin realized you can use a vanguard to seize power and utterly&nbsp;. .",
+      "sentiment": 0.0,
+      "severity_score": 75.0
+    },
+    {
+      "keyword": "anti-racism",
+      "title": "Marquis Who's Who Honors Dr. Gloria J. McEwen Burgess for Expertise in Leadership and Artistry",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.24-7pressrelease.com/press-release/528247/marquis-whos-who-honors-dr-gloria-j-mcewen-burgess-for-expertise-in-leadership-and-artistry&ct=ga&cd=CAIyHDE3OWFkZDUxMDQyMDFhZTk6Y29tOmVuOlVTOlI&usg=AOvVaw00rk8dUvV34R8opDT-CP6q",
+      "full_text": "From 2006 to 2007, Dr. Burgess was the chief officer for anti-racism, diversity, and inclusion at Casey Family Programs, where she also served as&nbsp;...",
+      "summary": "From 2006 to 2007, Dr. Burgess was the chief officer for anti-racism, diversity, and inclusion at Casey Family Programs, where she also served as&nbsp;. .",
+      "sentiment": 0.0,
+      "severity_score": 75.0
+    },
+    {
+      "keyword": "anti-racism",
+      "title": "DOJ investigating allegations Black Lives Matter defrauded donors - Washington Examiner",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.washingtonexaminer.com/news/justice/3870220/doj-investigation-black-lives-matter-fraud-donors/&ct=ga&cd=CAIyHDE3OWFkZDUxMDQyMDFhZTk6Y29tOmVuOlVTOlI&usg=AOvVaw0Pm1E3_adCitIrYU_CfzLO",
+      "full_text": "Federal investigators have issued subpoenas and executed a search warrant in their investigation into the anti-racism organization.",
+      "summary": "Federal investigators have issued subpoenas and executed a search warrant in their investigation into the anti-racism organization. .",
+      "sentiment": 0.0,
+      "severity_score": 75.0
+    },
+    {
+      "keyword": "anti-racism",
+      "title": "King strips Andrew of titles and HRH style in move which ends his public life - Newswav",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://newswav.com/article/king-strips-andrew-of-titles-and-hrh-style-in-move-which-ends-his-public-li-A2510_Fit3Xv&ct=ga&cd=CAIyHDE3OWFkZDUxMDQyMDFhZTk6Y29tOmVuOlVTOlI&usg=AOvVaw0WR6-8Iu8U63EGj4e7ArtB",
+      "full_text": "The Independent. The world's most free-thinking newspaper. A Meaningful Story! Short Film Created by UiTM Students on Anti Racism &amp; Unity Goes&nbsp;...",
+      "summary": "The Independent. The world's most free-thinking newspaper. A Meaningful Story! Short Film Created by UiTM Students on Anti Racism &amp; Unity Goes&nbsp;.",
+      "sentiment": 0.225,
+      "severity_score": 69.375
+    },
+    {
+      "keyword": "anti-racism",
+      "title": "SIU panel urges 'culture of care,' expanded advising to boost retention - Citizen Portal AI",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://citizenportal.ai/articles/6711843/Illinois/SIU-panel-urges-culture-of-care-expanded-advising-to-boost-retention&ct=ga&cd=CAIyHDE3OWFkZDUxMDQyMDFhZTk6Y29tOmVuOlVTOlI&usg=AOvVaw3hlmEekS7g8p7YjVEoFzeA",
+      "full_text": "Dr. Sheila Caldwell, vice president for Anti-Racism, Diversity, Equity and Inclusion for the Southern Illinois University System, opened the&nbsp;...",
+      "summary": "Dr. Sheila Caldwell, vice president for Anti-Racism, Diversity, Equity and Inclusion for the Southern Illinois University System, opened the&nbsp;. .",
+      "sentiment": 0.0,
+      "severity_score": 75.0
+    },
+    {
+      "keyword": "anti-racism",
+      "title": "Leftist Danish party running city election campaign 'Free Copehnagen from Zionism'",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.jpost.com/diaspora/antisemitism/article-872261&ct=ga&cd=CAIyHDE3OWFkZDUxMDQyMDFhZTk6Y29tOmVuOlVTOlI&usg=AOvVaw0rqOa1zEV8zjHPXxWV7sWB",
+      "full_text": "The party is, in fact, running on the slogan &quot;Climate action, Anti-racism, Anti-Zionism, Solidarity,&quot; and the posters form part of its new anti&nbsp;...",
+      "summary": "The party is, in fact, running on the slogan &quot;Climate action, Anti-racism, Anti-Zionism, Solidarity,&quot; and the posters form part of its new anti&nbsp;. . .",
+      "sentiment": 0.11818181818181818,
+      "severity_score": 72.04545454545455
+    },
+    {
+      "keyword": "anti-racism",
+      "title": "Baba Adeeko and Joe Adams Show Racism the Red Card at Premier League event - Wigan Athletic",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://wiganathletic.com/news/2025/october/30/baba-adeeko-and-joe-adams-show-racism-the-red-card-at-premier-league-event-/&ct=ga&cd=CAIyHDE3OWFkZDUxMDQyMDFhZTk6Y29tOmVuOlVTOlI&usg=AOvVaw2ZbWFYITDYPcajkFl3y7a2",
+      "full_text": "... League Primary Stars come together and take part in anti-racism workshops; as well experiencing the family zone and enjoying a tour of the stadium.",
+      "summary": ". . .",
+      "sentiment": 0.45,
+      "severity_score": 63.75
+    },
+    {
+      "keyword": "anti-racism",
+      "title": "Row erupts over Diversity Awards as Workers Party councillor criticises event he did not attend",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.rochvalleyradio.com/news/local-news/row-erupts-over-diversity-awards-as-workers-party-councillor-criticises-event-he-did-not-attend/&ct=ga&cd=CAIyHDE3OWFkZDUxMDQyMDFhZTk6Y29tOmVuOlVTOlI&usg=AOvVaw2uC-hdCZlyQkAPZ2fCuI5G",
+      "full_text": "A political row has broken out over the Rochdale Diversity Awards after a councillor from the Workers Party of Britain accused organisers and&nbsp;...",
+      "summary": "A political row has broken out over the Rochdale Diversity Awards after a councillor from the Workers Party of Britain accused organisers and&nbsp;. . .",
+      "sentiment": -0.2,
+      "severity_score": 80.0
+    },
+    {
+      "keyword": "anti-racism",
+      "title": "Standing Up for Equality: The EU's Ongoing Commitment at the Council of Europe | EEAS",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.eeas.europa.eu/delegations/council-europe/standing-equality-eu%25E2%2580%2599s-ongoing-commitment-council-europe_en&ct=ga&cd=CAIyHDE3OWFkZDUxMDQyMDFhZTk6Y29tOmVuOlVTOlI&usg=AOvVaw1SsuDuGpYSCa2g21zZ8ewh",
+      "full_text": "The EU action plan on anti-racism, with a new one currently being drafted, aims to ensure the systemic implementation and enforcement of related&nbsp;...",
+      "summary": "The EU action plan on anti-racism, with a new one currently being drafted, aims to ensure the systemic implementation and enforcement of related&nbsp;. . .",
+      "sentiment": 0.07878787878787878,
+      "severity_score": 73.03030303030303
+    },
+    {
+      "keyword": "anti-racism",
+      "title": "Jean Finlayson obituary | Campaigning journalism | The Guardian",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.theguardian.com/media/2025/oct/30/jean-finlayson-obituary&ct=ga&cd=CAIyHDE3OWFkZDUxMDQyMDFhZTk6Y29tOmVuOlVTOlI&usg=AOvVaw1iudUdQakjXiWXclqlJ8BQ",
+      "full_text": "... anti-racism throughout her life. Jean was born in a tiny town called Creal Springs in rural southern Illinois, where the midwest meets the deep&nbsp;...",
+      "summary": ". . .",
+      "sentiment": 0.0,
+      "severity_score": 75.0
+    },
+    {
+      "keyword": "anti-racism",
+      "title": "The spiritual, political, and liberatory work of unlearning - Prism Reports",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://prismreports.org/2025/10/30/radical-unlearning-book-lewis-raven-wallace/&ct=ga&cd=CAIyHDE3OWFkZDUxMDQyMDFhZTk6Y29tOmVuOlVTOlI&usg=AOvVaw1HsjVeMEMNLjqGHxgTqC28",
+      "full_text": "I reached out to her specifically because she wrote a memoir about her life as a white nationalist activist and her conversion to anti-racism. She&nbsp;...",
+      "summary": "I reached out to her specifically because she wrote a memoir about her life as a white nationalist activist and her conversion to anti-racism. She&nbsp;. .",
+      "sentiment": 0.0,
+      "severity_score": 75.0
+    },
+    {
+      "keyword": "anti-racism",
+      "title": "In These Times, We Need Consciousness Raising \u2014 and Radical Unlearning | Truthout",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://truthout.org/articles/in-these-times-we-need-consciousness-raising-and-radical-unlearning/&ct=ga&cd=CAIyHDE3OWFkZDUxMDQyMDFhZTk6Y29tOmVuOlVTOlI&usg=AOvVaw3yQjXOI26-Z1Rzt0u4jkKk",
+      "full_text": "She struggled with me: my gender, my sexuality, my commitment to anti-racism and to a way of life that was far outside of what she'd imagined for&nbsp;...",
+      "summary": "She struggled with me: my gender, my sexuality, my commitment to anti-racism and to a way of life that was far outside of what she'd imagined for&nbsp;. . .",
+      "sentiment": 0.05,
+      "severity_score": 73.75
+    },
+    {
+      "keyword": "anti-racism",
+      "title": "Swedish hate-crime trial shines light on far-right 'fitness clubs' - Digital Journal",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.digitaljournal.com/world/swedish-hate-crime-trial-shines-light-on-far-right-fitness-clubs/article&ct=ga&cd=CAIyHDE3OWFkZDUxMDQyMDFhZTk6Y29tOmVuOlVTOlI&usg=AOvVaw3CpaFdl9n2cC1Ig_OQ209o",
+      "full_text": "... anti-racism watchdog Expo. \u201cI was beaten severely\u2026 I didn't even have time to think before he took a running start and hit me with full force&nbsp;...",
+      "summary": ". . .",
+      "sentiment": 0.35,
+      "severity_score": 66.25
+    },
+    {
+      "keyword": "anti-racism",
+      "title": "Business leaders invited to engage in dialogue on race and equity",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://rbj.net/2025/10/30/business-leaders-dialogue-race-equity-erg-seminar-rochester/&ct=ga&cd=CAIyHDE3OWFkZDUxMDQyMDFhZTk6Y29tOmVuOlVTOlI&usg=AOvVaw1w-T1GyQB-xztYp75NDvTO",
+      "full_text": "Looking ahead to 2026, ERG plans to launch new programming to help alumni sustain and expand their anti-racism efforts and is seeking volunteers to&nbsp;...",
+      "summary": "Looking ahead to 2026, ERG plans to launch new programming to help alumni sustain and expand their anti-racism efforts and is seeking volunteers to&nbsp;. . .",
+      "sentiment": 0.13636363636363635,
+      "severity_score": 71.5909090909091
+    },
+    {
+      "keyword": "anti-racism",
+      "title": "Love Island's Huda Mustafa Issues Apology Amid Backlash After Laughing at Olandria ...",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://realityblurb.com/2025/10/30/love-islands-huda-mustafa-issues-apology-amid-backlash-after-laughing-at-olandria-carthen-being-called-a-racial-slur-plus-olandria-issues-statement/&ct=ga&cd=CAIyHDE3OWFkZDUxMDQyMDFhZTk6Y29tOmVuOlVTOlI&usg=AOvVaw2e60rVECLf_TsQG6RPDNsJ",
+      "full_text": "She then used her post to call on the public to \u201cdemonstrate a genuine commitment to anti-racism.\u201d Her next posts included links to organizations&nbsp;...",
+      "summary": "She then used her post to call on the public to \u201cdemonstrate a genuine commitment to anti-racism. \u201d Her next posts included links to organizations&nbsp;. .",
+      "sentiment": 0.13333333333333333,
+      "severity_score": 71.66666666666667
+    },
+    {
+      "keyword": "anti-racism",
+      "title": "'Love Island USA' alum Huda Mustafa apologizes to Olandria Carthen for racial slur controversy",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://pagesix.com/2025/10/30/entertainment/love-island-usa-alum-huda-mustafa-apologizes-to-olandria-carthen-for-racial-slur-controversy/&ct=ga&cd=CAIyHDE3OWFkZDUxMDQyMDFhZTk6Y29tOmVuOlVTOlI&usg=AOvVaw30sX9sYttGobR6sQAfzQa7",
+      "full_text": "... anti-racism by donating to organizations and foundations dedicated to educating and uplifting this community.\u201d AdChoices Ad Choices Icon Sponsored.",
+      "summary": ". . .",
+      "sentiment": 0.0,
+      "severity_score": 75.0
+    },
+    {
+      "keyword": "anti-racism",
+      "title": "Dove House Community Trust receives Anti-Racism Charter from the Museum of Free Derry",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.derryjournal.com/news/people/dove-house-community-trust-receives-anti-racism-charter-from-the-museum-of-free-derry-5381810&ct=ga&cd=CAIyHDE3OWFkZDUxMDQyMDFhZTk6Y29tOmVuOlVTOlI&usg=AOvVaw3M6sPRd1ntZOHbB3O0fZs6",
+      "full_text": "Dove House Community Trust has proudly received an Anti-Racism Charter from the Museum of Free Derry, reaffirming its commitment to building an&nbsp;...",
+      "summary": "Dove House Community Trust has proudly received an Anti-Racism Charter from the Museum of Free Derry, reaffirming its commitment to building an&nbsp;. . .",
+      "sentiment": 0.6000000000000001,
+      "severity_score": 60.0
+    },
+    {
+      "keyword": "anti-racism",
+      "title": "All of the Love Island USA cast's statements against racism after Huda and Louis' vile stream",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://thetab.com/2025/10/30/all-of-the-love-island-usa-casts-statements-against-racism-after-huda-and-louis-vile-stream&ct=ga&cd=CAIyHDE3OWFkZDUxMDQyMDFhZTk6Y29tOmVuOlVTOlI&usg=AOvVaw1ZwKKKReNDf2JyWxoPIQ4-",
+      "full_text": "Olandria is encouraging anyone who took part in Huda and Louis' stream to \u201cdemonstrate a genuine commitment to anti-racism by donating to&nbsp;...",
+      "summary": "Olandria is encouraging anyone who took part in Huda and Louis' stream to \u201cdemonstrate a genuine commitment to anti-racism by donating to&nbsp;. . .",
+      "sentiment": 0.4,
+      "severity_score": 65.0
+    },
+    {
+      "keyword": "anti-racism",
+      "title": "Edmonton's new city council starts work by identifying priorities",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://edmonton.taproot.news/news/2025/10/30/edmontons-new-city-council-starts-work-by-identifying-priorities&ct=ga&cd=CAIyHDE3OWFkZDUxMDQyMDFhZTk6Y29tOmVuOlVTOlI&usg=AOvVaw1V400YzVuKtm3gYfh9RCNS",
+      "full_text": "... anti-racism strategy). Instead, Knack said council would first develop a strategic plan to guide the term. \u201cOnce we have that, we know where we're&nbsp;...",
+      "summary": ". . .",
+      "sentiment": 0.25,
+      "severity_score": 68.75
+    },
+    {
+      "keyword": "anti-racism",
+      "title": "BIC Brussels: Recognizing youth as vital participants in promoting racial harmony | BWNS",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://news.bahai.org/story/1831/bic-brussels-youth-vital-participants-promoting-racial-harmony&ct=ga&cd=CAIyHDE3OWFkZDUxMDQyMDFhZTk6Y29tOmVuOlVTOlI&usg=AOvVaw1nDeH_BUPzSGAtOWOMfUqr",
+      "full_text": "... Anti-Racism Action Plan 2020\u20132025, one theme rang clear: lasting change ... The workshop, titled \u201cYouth as Catalysts for Anti-Racism Strategies\u201d, was co&nbsp;...",
+      "summary": ". . .",
+      "sentiment": 0.06666666666666667,
+      "severity_score": 73.33333333333333
+    },
+    {
+      "keyword": "anti-racism",
+      "title": "Fans Blast Huda Mustafa and Louis Russell for Laughing as Slur Targets Olandria Carthen",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://feminegra.com/fans-blast-huda-mustafa-and-louis-russell-for-laughing-as-slur-targets-olandria-carthen/&ct=ga&cd=CAIyHDE3OWFkZDUxMDQyMDFhZTk6Y29tOmVuOlVTOlI&usg=AOvVaw2_OvznHi3HuEmlMYD5l937",
+      "full_text": "She reminded audiences that anti-racism is more than performance, it's action and empathy. Huda's Second Statement Arrives Late. Hours after the&nbsp;...",
+      "summary": "She reminded audiences that anti-racism is more than performance, it's action and empathy. Huda's Second Statement Arrives Late. Hours after the&nbsp;.",
+      "sentiment": 0.075,
+      "severity_score": 73.125
+    },
+    {
+      "keyword": "racism",
+      "title": "Spanish football in racism spotlight again as Real Oviedo fan faces \u20ac4000 fine for Rashford abuse",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.insideworldfootball.com/2025/10/31/spanish-football-racism-spotlight-real-oviedo-fan-faces-e4000-fine-rashford-abuse/&ct=ga&cd=CAIyHGMzM2Q0MWQxMjg3MGVkYTA6Y29tOmVuOlVTOlI&usg=AOvVaw13g5WvCmPxFW8Y7G-lqNOi",
+      "full_text": "... racism continues to be a problem despite repeated promises of reform. Recently, Spanish courts issued prison sentences for the perpetrators of racist&nbsp;...",
+      "summary": ". . .",
+      "sentiment": 0.0,
+      "severity_score": 75.0
+    },
+    {
+      "keyword": "racism",
+      "title": "Racist Abuse in Canada | Indians Targeted in Ontario McDonald's Incident - YouTube",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DycJnLWxqpYs&ct=ga&cd=CAIyHGMzM2Q0MWQxMjg3MGVkYTA6Y29tOmVuOlVTOlI&usg=AOvVaw1FIiT_61U3asgHYMjGMZ0V",
+      "full_text": "A disturbing video from Oakville, Ontario, shows a young white man hurling racist abuse at an Indian McDonald's employee \u2014 sparking outrage across&nbsp;...",
+      "summary": "A disturbing video from Oakville, Ontario, shows a young white man hurling racist abuse at an Indian McDonald's employee \u2014 sparking outrage across&nbsp;. . .",
+      "sentiment": -0.13333333333333333,
+      "severity_score": 78.33333333333333
+    },
+    {
+      "keyword": "racism",
+      "title": "Racism at McDonald's in Canada: Viral Video Sparks Outrage | Indian Worker Abused",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DaPFCwn92Fr0&ct=ga&cd=CAIyHGMzM2Q0MWQxMjg3MGVkYTA6Y29tOmVuOlVTOlI&usg=AOvVaw1-351qIxr7PuJNFwVoQsWP",
+      "full_text": "A shocking video from Oakville, Ontario, shows a white man hurling racist slurs at an Indian ... Racism at McDonald's in Canada: Viral Video Sparks&nbsp;...",
+      "summary": "A shocking video from Oakville, Ontario, shows a white man hurling racist slurs at an Indian . . .",
+      "sentiment": -0.5,
+      "severity_score": 87.5
+    },
+    {
+      "keyword": "racism",
+      "title": "Reports of Racism Against UK Nurses Jump 55% and the U.S. Isn't Far Behind",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://nurse.org/news/nurses-racism-surge-uk-usa/&ct=ga&cd=CAIyHGMzM2Q0MWQxMjg3MGVkYTA6Y29tOmVuOlVTOlI&usg=AOvVaw2Y9VqkamZSChc3O6jTCn7u",
+      "full_text": "Racism in nursing is still a major problem \u2014 not just in the U.K., but around the world. In the U.K., reports of racist incidents against nurses have&nbsp;...",
+      "summary": "Racism in nursing is still a major problem \u2014 not just in the U. K. , but around the world.",
+      "sentiment": 0.0625,
+      "severity_score": 73.4375
+    },
+    {
+      "keyword": "racism",
+      "title": "Despite Single Party Dominance - There Are No Kings in Texas | Sierra Club",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.sierraclub.org/texas/blog/2025/10/despite-single-party-dominance-there-are-no-kings-texas&ct=ga&cd=CAIyHGMzM2Q0MWQxMjg3MGVkYTA6Y29tOmVuOlVTOlI&usg=AOvVaw2HfiXlGg4j7HNKWurwMlY4",
+      "full_text": "Anti-Racism. Close submenuNews &amp; Stories. Legislative News &middot; News &middot; Press Room &middot; From Heat to Hope Podcast. Close submenuLegislature. Legislative&nbsp;...",
+      "summary": "Anti-Racism. Close submenuNews &amp; Stories. Legislative News &middot; News &middot; Press Room &middot; From Heat to Hope Podcast.",
+      "sentiment": 0.0,
+      "severity_score": 75.0
+    },
+    {
+      "keyword": "racism",
+      "title": "Leftist Danish party running city election campaign 'Free Copehnagen from Zionism'",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.jpost.com/diaspora/antisemitism/article-872261&ct=ga&cd=CAIyHGMzM2Q0MWQxMjg3MGVkYTA6Y29tOmVuOlVTOlI&usg=AOvVaw0rqOa1zEV8zjHPXxWV7sWB",
+      "full_text": "... of the penal code on racism and threats against other people.&quot;",
+      "summary": ". . .",
+      "sentiment": -0.125,
+      "severity_score": 78.125
+    },
+    {
+      "keyword": "racism",
+      "title": "Parents speak out after hockey players experience racism on ice | wzzm13.com",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.wzzm13.com/video/news/local/they-say-hockey-is-for-everyone-parents-speak-out-after-hockey-players-experience-racism-on-ice/69-b55c9645-0c51-4c05-898e-c32b9f504f99&ct=ga&cd=CAIyHGMzM2Q0MWQxMjg3MGVkYTA6Y29tOmVuOlVTOlI&usg=AOvVaw1aJeFRjAoMHwa9GhU8X7ex",
+      "full_text": "WZZM &middot; 'They say hockey is for everyone' | Parents speak out after hockey players experience racism on ice &middot; WZZM &middot; Download the 13 ON YOUR SIDE News -&nbsp;...",
+      "summary": "WZZM &middot; 'They say hockey is for everyone' | Parents speak out after hockey players experience racism on ice &middot; WZZM &middot; Download the 13 ON YOUR SIDE News -&nbsp;. . .",
+      "sentiment": 0.0,
+      "severity_score": 75.0
+    },
+    {
+      "keyword": "racism",
+      "title": "Ruben Navarrette: MAGA movement can't quit racial politics - West Central Tribune",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.wctrib.com/opinion/columns/ruben-navarrette-maga-movement-cant-quit-racial-politics&ct=ga&cd=CAIyHGMzM2Q0MWQxMjg3MGVkYTA6Y29tOmVuOlVTOlI&usg=AOvVaw2oJVf-JU_foB2E4OQXHRen",
+      "full_text": "... clear that they resent it when they're called racist. ... Then they ought to cleanse their movement and scrub out all the racism. It's a big project.&quot;",
+      "summary": ". . .",
+      "sentiment": 0.05000000000000001,
+      "severity_score": 73.75
+    },
+    {
+      "keyword": "racism",
+      "title": "Uxbridge select board chair under fire for controversial social media post - WCVB",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.wcvb.com/article/uxbridge-select-board-chair-facebook-post/69208627&ct=ga&cd=CAIyHGMzM2Q0MWQxMjg3MGVkYTA6Y29tOmVuOlVTOlI&usg=AOvVaw2uwOdBWlg5xP3Z_KV_eBE-",
+      "full_text": "Uxbridge Select Board Chair Brian Butler faces criticism for sharing an AI video on Facebook, with some calling it racist.",
+      "summary": "Uxbridge Select Board Chair Brian Butler faces criticism for sharing an AI video on Facebook, with some calling it racist. .",
+      "sentiment": 0.0,
+      "severity_score": 75.0
+    },
+    {
+      "keyword": "racism",
+      "title": "'We failed you': Defence chief acknowledges and apologizes for military's racist history",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DHXa60uNE7qE&ct=ga&cd=CAIyHGMzM2Q0MWQxMjg3MGVkYTA6Y29tOmVuOlVTOlI&usg=AOvVaw1AnEvjbtOT2zZqeeTBaNE5",
+      "full_text": "Gen. Jennie Carignan apologizes for the military's racist past and pledges to improve conditions for racialized members.",
+      "summary": "Gen. Jennie Carignan apologizes for the military's racist past and pledges to improve conditions for racialized members. .",
+      "sentiment": -0.175,
+      "severity_score": 79.375
+    },
+    {
+      "keyword": "racism",
+      "title": "Israel's Top Comedy Show Reduced Zohran Mamdani to Racist Stereotypes - Haaretz",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.haaretz.com/israel-news/haaretz-today/2025-10-30/ty-article/.highlight/israels-top-comedy-show-reduced-zohran-mamdani-to-racist-stereotypes/0000019a-3606-d36c-a3bf-b657e42d0000&ct=ga&cd=CAIyHGMzM2Q0MWQxMjg3MGVkYTA6Y29tOmVuOlVTOlI&usg=AOvVaw0b8rk1Hn2p0-yfcTT6vUti",
+      "full_text": "Mamdani has also faced overtly Islamophobic and racist attacks, including from rivals. Why did a satire show with such rich political material at hand&nbsp;...",
+      "summary": "Mamdani has also faced overtly Islamophobic and racist attacks, including from rivals. Why did a satire show with such rich political material at hand&nbsp;. .",
+      "sentiment": 0.125,
+      "severity_score": 71.875
+    },
+    {
+      "keyword": "racism",
+      "title": "Parents speak out after hockey players experience racism on ice | wzzm13.com",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.wzzm13.com/article/news/local/racism-allegations-youth-hockey-league/69-e74d37ba-a0dd-4f5e-a3b5-e319ecc750ce&ct=ga&cd=CAIyHGMzM2Q0MWQxMjg3MGVkYTA6Y29tOmVuOlVTOlI&usg=AOvVaw1D8eNOHm4bnaa325z_c9pk",
+      "full_text": "The Becks say they have reported racism experienced by their son in the past to the Little Caesars Amateur Hockey League and to USA Hockey, the&nbsp;...",
+      "summary": "The Becks say they have reported racism experienced by their son in the past to the Little Caesars Amateur Hockey League and to USA Hockey, the&nbsp;. . .",
+      "sentiment": 0.02812500000000001,
+      "severity_score": 74.296875
+    },
+    {
+      "keyword": "racism",
+      "title": "UTHealth professor's use of a slur shows racism still infects medical training - Yahoo",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.yahoo.com/news/articles/uthealth-professors-slur-shows-racism-180052444.html&ct=ga&cd=CAIyHGMzM2Q0MWQxMjg3MGVkYTA6Y29tOmVuOlVTOlI&usg=AOvVaw2LWvahsUoBRHvtTE8GuYwL",
+      "full_text": "Author Clint Smith, whose family moved to Houston after Hurricane Katrina, penned an article for the Atlantic in 2022 titled &quot;What a Racist Slur Does&nbsp;...",
+      "summary": "Author Clint Smith, whose family moved to Houston after Hurricane Katrina, penned an article for the Atlantic in 2022 titled &quot;What a Racist Slur Does&nbsp;. . .",
+      "sentiment": 0.0,
+      "severity_score": 75.0
+    },
+    {
+      "keyword": "racism",
+      "title": "President Trump's Racist Refugee Cap Abandons Refugees Around the World",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.amnestyusa.org/press-releases/president-trumps-racist-refugee-cap-abandons-refugees-around-the-world/&ct=ga&cd=CAIyHGMzM2Q0MWQxMjg3MGVkYTA6Y29tOmVuOlVTOlI&usg=AOvVaw3j-LU5kF0ykkK-qm6fvkGv",
+      "full_text": "Setting this cap at such an absurdly low number and prioritizing white Afrikaners is a racist move that will turn the U.S.'s back on tens of&nbsp;...",
+      "summary": "Setting this cap at such an absurdly low number and prioritizing white Afrikaners is a racist move that will turn the U. S. 's back on tens of&nbsp;.",
+      "sentiment": 0.0,
+      "severity_score": 75.0
+    },
+    {
+      "keyword": "racism",
+      "title": "Chief of defence staff offers apology for military's history of racial discrimination",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.coastreporter.net/national-news/chief-of-defence-staff-offers-apology-for-militarys-history-of-racial-discrimination-11422656&ct=ga&cd=CAIyHGMzM2Q0MWQxMjg3MGVkYTA6Y29tOmVuOlVTOlI&usg=AOvVaw2SY_2ushgAk7Uu9qZhqqyz",
+      "full_text": "&quot;It is under the shadow of ignorance regarding systemic racism that individual racist activity and attitudes flourish,&quot; Carignan said. &quot;We will&nbsp;...",
+      "summary": "&quot;It is under the shadow of ignorance regarding systemic racism that individual racist activity and attitudes flourish,&quot; Carignan said. &quot;We will&nbsp;. .",
+      "sentiment": 0.0,
+      "severity_score": 75.0
+    },
+    {
+      "keyword": "racism",
+      "title": "The Influencer Economy's Silence Is the Real Scandal - EBONY Magazine",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.ebony.com/influencer-economy-silence-racism-olandria-carthen/&ct=ga&cd=CAIyHGMzM2Q0MWQxMjg3MGVkYTA6Y29tOmVuOlVTOlI&usg=AOvVaw347cKgkQ8SC8m8p52IM1GQ",
+      "full_text": "You cannot claim to love the culture while ignoring racism. You cannot court the Black dollar while protecting the people who weaponize language&nbsp;...",
+      "summary": "You cannot claim to love the culture while ignoring racism. You cannot court the Black dollar while protecting the people who weaponize language&nbsp;. .",
+      "sentiment": 0.16666666666666669,
+      "severity_score": 70.83333333333333
+    },
+    {
+      "keyword": "racism",
+      "title": "Baba Adeeko and Joe Adams Show Racism the Red Card at Premier League event - Wigan Athletic",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://wiganathletic.com/news/2025/october/30/baba-adeeko-and-joe-adams-show-racism-the-red-card-at-premier-league-event-/&ct=ga&cd=CAIyHGMzM2Q0MWQxMjg3MGVkYTA6Y29tOmVuOlVTOlI&usg=AOvVaw2ZbWFYITDYPcajkFl3y7a2",
+      "full_text": "Wigan Athletic Community Trust and Show Racism the Red Card recently held their annual anti-discrimination event at the Brick Community Stadium.",
+      "summary": "Wigan Athletic Community Trust and Show Racism the Red Card recently held their annual anti-discrimination event at the Brick Community Stadium. .",
+      "sentiment": 0.0,
+      "severity_score": 75.0
+    },
+    {
+      "keyword": "racism",
+      "title": "Jillian Michaels talks raising kids of different races in a polarized society - The Hill",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://thehill.com/blogs/in-the-know/5581991-jillian-michaels-raising-children-interview/&ct=ga&cd=CAIyHGMzM2Q0MWQxMjg3MGVkYTA6Y29tOmVuOlVTOlI&usg=AOvVaw1hOTfBxqsusZUP7-6cK-nM",
+      "full_text": "... racism, saying the narrative that there's something wrong with being a white person is \u201cgoing to breed the next generation of racists.\u201d \u201cI think&nbsp;...",
+      "summary": ". . .",
+      "sentiment": -0.16666666666666666,
+      "severity_score": 79.16666666666667
+    },
+    {
+      "keyword": "racism",
+      "title": "Dems' vile redistricting power play pretends NY's top DEMOCRATS are racist",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://nypost.com/2025/10/29/opinion/dems-vile-redistricting-power-play-pretends-nys-top-democrats-are-racist/&ct=ga&cd=CAIyHGMzM2Q0MWQxMjg3MGVkYTA6Y29tOmVuOlVTOlI&usg=AOvVaw08mZ-tc1F2pIBw7T2JAFsk",
+      "full_text": "... have filed a suit that basically accuses Gov. Kathy Hochul, state Sen. Mike Gianaris and other top New York Dems of being racists.",
+      "summary": ". . .",
+      "sentiment": 0.17045454545454544,
+      "severity_score": 70.73863636363636
+    },
+    {
+      "keyword": "racism",
+      "title": "Life lessons from civil rights advocate Alice Green - Adirondack Almanack",
+      "date": "2025-10-31",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.adirondackexplorer.org/almanack-adirondacks/life-lessons-from-alice-green/&ct=ga&cd=CAIyHGMzM2Q0MWQxMjg3MGVkYTA6Y29tOmVuOlVTOlI&usg=AOvVaw02IuLxt029pKrJz5VBnVTw",
+      "full_text": "A personal reflection on civil rights advocate Alice Green's lifelong fight against racism in the Adirondacks, from her painful childhood in&nbsp;...",
+      "summary": "A personal reflection on civil rights advocate Alice Green's lifelong fight against racism in the Adirondacks, from her painful childhood in&nbsp;. . .",
+      "sentiment": -0.25,
+      "severity_score": 81.25
+    }
+  ]
+}
