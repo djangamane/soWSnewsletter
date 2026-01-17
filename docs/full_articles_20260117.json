@@ -1,0 +1,947 @@
+{
+  "date": "2026-01-17",
+  "total_articles": 94,
+  "average_severity": 74.14162090126186,
+  "articles": [
+    {
+      "keyword": "systemic racism",
+      "title": "N.B. opens new anti-racism office, but leaves\u2026 - National Newswatch",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://nationalnewswatch.com/2026/01/16/n-b-opens-new-anti-racism-office-but-leaves-examination-of-police-racism-in-limbo&ct=ga&cd=CAIyHGEwMWYwYjg1MTkxYTA4MDA6Y29tOmVuOlVTOlI&usg=AOvVaw1S3lULrAt8Q5yCgx-p23uA",
+      "full_text": "FREDERICTON -- The New Brunswick government's first official response to a 2022 report on systemic racism includes the creation of a new&nbsp;...",
+      "summary": "FREDERICTON -- The New Brunswick government's first official response to a 2022 report on systemic racism includes the creation of a new&nbsp;. . .",
+      "sentiment": 0.19318181818181818,
+      "severity_score": 70.17045454545455
+    },
+    {
+      "keyword": "systemic racism",
+      "title": "The TJ Ritchie Show: The superiority of the United States - WBT",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://wbt.com/1609033/the-tj-ritchie-show-the-superiority-of-the-united-states/&ct=ga&cd=CAIyHGEwMWYwYjg1MTkxYTA4MDA6Y29tOmVuOlVTOlI&usg=AOvVaw31Dg0kfnNeEY7OPnS8XL26",
+      "full_text": "... systemic racism within the Democratic Party. Hour 2. Segment 1. Subject: TJ discusses a mix of Friday night entertainment and political commentary&nbsp;...",
+      "summary": ". . .",
+      "sentiment": -0.08333333333333333,
+      "severity_score": 77.08333333333333
+    },
+    {
+      "keyword": "systemic racism",
+      "title": "The Healing Project: An Abolitionist Story and Poor News Magazine - KPFA",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://kpfa.org/episode/hard-knock-radio-january-16-2026/&ct=ga&cd=CAIyHGEwMWYwYjg1MTkxYTA4MDA6Y29tOmVuOlVTOlI&usg=AOvVaw0KjaalHAcpWmWaalFG9MkG",
+      "full_text": "The Healing Project, a fundamentally abolitionist project, explores the structures of systemic racism and the prison industrial complex. Long&nbsp;...",
+      "summary": "The Healing Project, a fundamentally abolitionist project, explores the structures of systemic racism and the prison industrial complex. Long&nbsp;. .",
+      "sentiment": -0.3,
+      "severity_score": 82.5
+    },
+    {
+      "keyword": "systemic racism",
+      "title": "Congressman Cohen Statement Commemorating Dr. Martin Luther King Jr. Day",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://cohen.house.gov/media-center/press-releases/congressman-cohen-statement-commemorating-dr-martin-luther-king-jr-0&ct=ga&cd=CAIyHGEwMWYwYjg1MTkxYTA4MDA6Y29tOmVuOlVTOlI&usg=AOvVaw1Vmc0n5Nz9xw6uGvoXQVFy",
+      "full_text": "Dr. King was a multi-dimensional figure in American history \u2013 fighting poverty and militarism, along with systemic racism, bigotry and violations&nbsp;...",
+      "summary": "Dr. King was a multi-dimensional figure in American history \u2013 fighting poverty and militarism, along with systemic racism, bigotry and violations&nbsp;. .",
+      "sentiment": 0.0,
+      "severity_score": 75.0
+    },
+    {
+      "keyword": "systemic racism",
+      "title": "Liberals creating 'anti-racism office' to address systemic problem | Telegraph-Journal",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://tj.news/new-brunswick/liberals-creating-anti-racism-office-to-address-systemic-problem&ct=ga&cd=CAIyHGEwMWYwYjg1MTkxYTA4MDA6Y29tOmVuOlVTOlI&usg=AOvVaw0w7FKR_JjiQeocUey_qyrw",
+      "full_text": "More than three years after a report on systemic racism in New Brunswick called for swift action, the provincial government has responded by&nbsp;...",
+      "summary": "More than three years after a report on systemic racism in New Brunswick called for swift action, the provincial government has responded by&nbsp;. . .",
+      "sentiment": 0.24545454545454545,
+      "severity_score": 68.86363636363636
+    },
+    {
+      "keyword": "systemic racism",
+      "title": "MLK Jr.'s vision for equality is a 'living challenge' for America - Georgia Recorder",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://georgiarecorder.com/2026/01/16/nearly-six-decades-after-his-death-kings-vision-for-equality-is-still-a-living-challenge-for-all/&ct=ga&cd=CAIyHGEwMWYwYjg1MTkxYTA4MDA6Y29tOmVuOlVTOlI&usg=AOvVaw3Pipr36R9HOeYF15OhORho",
+      "full_text": "In 1968, King was slain at the age of 39 after becoming the face of the nonviolent Civil Rights Movement fighting the systemic racism Black people&nbsp;...",
+      "summary": "In 1968, King was slain at the age of 39 after becoming the face of the nonviolent Civil Rights Movement fighting the systemic racism Black people&nbsp;. . .",
+      "sentiment": 0.22777777777777783,
+      "severity_score": 69.30555555555556
+    },
+    {
+      "keyword": "systemic racism",
+      "title": "N.B. opens new anti-racism office, but leaves examination of police racism in limbo",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.townandcountrytoday.com/atlantic-news/nb-opens-new-anti-racism-office-but-leaves-examination-of-police-racism-in-limbo-11750114&ct=ga&cd=CAIyHGEwMWYwYjg1MTkxYTA4MDA6Y29tOmVuOlVTOlI&usg=AOvVaw15Srcah53D6iozMgDNzUMU",
+      "full_text": "FREDERICTON \u2014 The New Brunswick government's first official response to a 2022 report on systemic racism includes the creation of a new&nbsp;...",
+      "summary": "FREDERICTON \u2014 The New Brunswick government's first official response to a 2022 report on systemic racism includes the creation of a new&nbsp;. . .",
+      "sentiment": 0.19318181818181818,
+      "severity_score": 70.17045454545455
+    },
+    {
+      "keyword": "systemic racism",
+      "title": "CM Punk Movie Night Patrol Deals With A Controversial Subject In A Unique Way",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.wrestlezone.com/news/1601322-cm-punk-movie-night-patrol-controversial-subject&ct=ga&cd=CAIyHGEwMWYwYjg1MTkxYTA4MDA6Y29tOmVuOlVTOlI&usg=AOvVaw3hJar3J9EHkuaB2H7BgM3T",
+      "full_text": "On its surface, the film is about vampires, but it also addresses systemic racism and law enforcement overstepping the bounds of the rules they&nbsp;...",
+      "summary": "On its surface, the film is about vampires, but it also addresses systemic racism and law enforcement overstepping the bounds of the rules they&nbsp;. . .",
+      "sentiment": 0.0,
+      "severity_score": 75.0
+    },
+    {
+      "keyword": "systemic racism",
+      "title": "N.B. government opens new anti-racism office in response to 2022 report | 980 CJME",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.cjme.com/2026/01/16/n-b-government-opens-new-anti-racism-office-in-response-to-2022-report/&ct=ga&cd=CAIyHGEwMWYwYjg1MTkxYTA4MDA6Y29tOmVuOlVTOlI&usg=AOvVaw3mgpbETwmgF6rcxod8mGNA",
+      "full_text": "More than three years after a report on systemic racism made dozens of recommendations to the government, officials in New Brunswick say it has&nbsp;...",
+      "summary": "More than three years after a report on systemic racism made dozens of recommendations to the government, officials in New Brunswick say it has&nbsp;. . .",
+      "sentiment": 0.3181818181818182,
+      "severity_score": 67.04545454545455
+    },
+    {
+      "keyword": "systemic racism",
+      "title": "New York's Mamdani Doubles Down on Race-Based Government Policy - Townhall",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://townhall.com/tipsheet/amy-curtis/2026/01/16/mamdani-racial-equity-n2669591&ct=ga&cd=CAIyHGEwMWYwYjg1MTkxYTA4MDA6Y29tOmVuOlVTOlI&usg=AOvVaw0XBuWMOOUJqMX-CgiPni8q",
+      "full_text": "In New York, systemic racism is not only a good thing now, but it's also a matter of public policy. Mayor Zohran Mamdani named Afua Atta-Mensah as the&nbsp;...",
+      "summary": "In New York, systemic racism is not only a good thing now, but it's also a matter of public policy. Mayor Zohran Mamdani named Afua Atta-Mensah as the&nbsp;. .",
+      "sentiment": 0.20909090909090908,
+      "severity_score": 69.77272727272728
+    },
+    {
+      "keyword": "systemic racism",
+      "title": "Musk Calls for Imprisonment of Teachers Teaching Critical US History as Treason",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://news.ssbcrack.com/musk-calls-for-imprisonment-of-teachers-teaching-critical-us-history-as-treason/&ct=ga&cd=CAIyHGEwMWYwYjg1MTkxYTA4MDA6Y29tOmVuOlVTOlI&usg=AOvVaw1bMbz-mr1RcApHJDUoTjy1",
+      "full_text": "... systemic racism, and the impact of European settlers on Indigenous populations. A brief examination of this aspect of US history reveals a&nbsp;...",
+      "summary": ". . .",
+      "sentiment": 0.0,
+      "severity_score": 75.0
+    },
+    {
+      "keyword": "systemic racism",
+      "title": "What Was the Chicano Moratorium? - TheCollector",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.thecollector.com/what-was-chicano-moratorium/&ct=ga&cd=CAIyHGEwMWYwYjg1MTkxYTA4MDA6Y29tOmVuOlVTOlI&usg=AOvVaw0AyH-oQCHsdCxirdfSpaoa",
+      "full_text": "... to police overreach and the legacy of systemic racism.",
+      "summary": ". . .",
+      "sentiment": 0.0,
+      "severity_score": 75.0
+    },
+    {
+      "keyword": "systemic racism",
+      "title": "Beneath the Ashes: the Past Reimagined - Premiere - PBS SoCal",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.pbssocal.org/event/beneath-the-ashes-the-past-reimagined-premiere&ct=ga&cd=CAIyHGEwMWYwYjg1MTkxYTA4MDA6Y29tOmVuOlVTOlI&usg=AOvVaw2EUL9L745XM8P-ihd5j273",
+      "full_text": "For Black families across America, systemic racism and discriminatory housing practices were longstanding realities. By the mid-20th century, the&nbsp;...",
+      "summary": "For Black families across America, systemic racism and discriminatory housing practices were longstanding realities. By the mid-20th century, the&nbsp;. .",
+      "sentiment": -0.16666666666666666,
+      "severity_score": 79.16666666666667
+    },
+    {
+      "keyword": "systemic racism",
+      "title": "How Indian PhD Students Won Rs 1.81 Crore Over A Palak Paneer Dispute In The US",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.slurrp.com/article/how-indian-phd-students-won-rs-1-81-crore-over-a-palak-paneer-dispute-in-the-us-1768565478918&ct=ga&cd=CAIyHGEwMWYwYjg1MTkxYTA4MDA6Y29tOmVuOlVTOlI&usg=AOvVaw0-ifH9AF3sagcPEIB6ms3F",
+      "full_text": "... systemic racism. Bhattacheryya, from Kolkata, and Prakash, from Bhopal, both come from middle-class backgrounds and claim that their doctoral&nbsp;...",
+      "summary": ". . .",
+      "sentiment": 0.0,
+      "severity_score": 75.0
+    },
+    {
+      "keyword": "white supremacy",
+      "title": "Zohran Mamdani Is Showing Democrats How to Govern - Zeteo",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://zeteo.com/p/zohran-mamdani-new-york-democrats-govern&ct=ga&cd=CAIyHDQxMWE1YzIxYzQ0YzYxZjA6Y29tOmVuOlVTOlI&usg=AOvVaw0f5EtMefsnQ27Zd9Jnjjgp",
+      "full_text": "The Essence of Trump 2.0 Is Violent White Supremacy &middot; John Harwood. \u00b7. Jan 15. Read full story.",
+      "summary": "The Essence of Trump 2. 0 Is Violent White Supremacy &middot; John Harwood. \u00b7.",
+      "sentiment": -0.15000000000000002,
+      "severity_score": 78.75
+    },
+    {
+      "keyword": "white supremacy",
+      "title": "Tenant aide Cea Weaver all smiles with Zohran Mamdani at NYC event | New York Post",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://nypost.com/2026/01/16/us-news/tenant-aide-cea-weaver-all-smiles-with-zohran-mamdani-at-nyc-event/&ct=ga&cd=CAIyHDQxMWE1YzIxYzQ0YzYxZjA6Y29tOmVuOlVTOlI&usg=AOvVaw3GHldPi2RPPtpaUSdE0O22",
+      "full_text": "... white supremacy\u201d and demanding the government \u201cseize private property.\u201d NYC Mayor Zohran Mamdani, along with Housing Czar Cea Weaver, and others&nbsp;...",
+      "summary": ". . .",
+      "sentiment": 0.0,
+      "severity_score": 75.0
+    },
+    {
+      "keyword": "white supremacy",
+      "title": "The law gave me protection. It didn't give me justice - International Examiner",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://iexaminer.org/the-law-gave-me-protection-it-didnt-give-me-justice/&ct=ga&cd=CAIyHDQxMWE1YzIxYzQ0YzYxZjA6Y29tOmVuOlVTOlI&usg=AOvVaw1SPAm-w0hkJqU1OJdWjYqM",
+      "full_text": "These experiences have revealed how white supremacy continues to pervade all systems, leaving no room for restoration or accountability. When we look&nbsp;...",
+      "summary": "These experiences have revealed how white supremacy continues to pervade all systems, leaving no room for restoration or accountability. When we look&nbsp;. .",
+      "sentiment": 0.0,
+      "severity_score": 75.0
+    },
+    {
+      "keyword": "white supremacy",
+      "title": "Some Trump administration social media posts mirror extremist rhetoric - NBC News",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.nbcnews.com/tech/internet/trump-administration-social-media-posts-extremist-rhetoric-rcna254372&ct=ga&cd=CAIyHDQxMWE1YzIxYzQ0YzYxZjA6Y29tOmVuOlVTOlI&usg=AOvVaw0CEkkAz4nwt7RA6sUuLQpk",
+      "full_text": "Whether that image was meant to be an expression of patriotism or a wink at white supremacy was the subject of some debate. More recent posts from&nbsp;...",
+      "summary": "Whether that image was meant to be an expression of patriotism or a wink at white supremacy was the subject of some debate. More recent posts from&nbsp;. .",
+      "sentiment": 0.08333333333333334,
+      "severity_score": 72.91666666666666
+    },
+    {
+      "keyword": "white supremacy",
+      "title": "Proud Boys supporter draws backlash over upcoming Bay Area concert - San Francisco Chronicle",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.sfchronicle.com/entertainment/article/michale-graves-concert-21299357.php&ct=ga&cd=CAIyHDQxMWE1YzIxYzQ0YzYxZjA6Y29tOmVuOlVTOlI&usg=AOvVaw3z0aT6g5fINEKAmz8dfOPc",
+      "full_text": "The far-right militant organization has a reputation for promoting white supremacy and political violence, views that have prompted some Bay Area&nbsp;...",
+      "summary": "The far-right militant organization has a reputation for promoting white supremacy and political violence, views that have prompted some Bay Area&nbsp;. . .",
+      "sentiment": 0.0,
+      "severity_score": 75.0
+    },
+    {
+      "keyword": "white supremacy",
+      "title": "ICE lawyer returns to work after report links him to racist account",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.ms.now/opinion/democrats-condemn-ice-lawyers-return-to-work-after-report-links-him-to-racist-account&ct=ga&cd=CAIyHDQxMWE1YzIxYzQ0YzYxZjA6Y29tOmVuOlVTOlI&usg=AOvVaw3MCpH_raHDHDpNKBZDG22S",
+      "full_text": "\u201cICE hiring literal Nazis to represent them in court,\u201d Gallego posted to X. \u201cAnd instead of kicking him out for white supremacy, they reward him by&nbsp;...",
+      "summary": "\u201cICE hiring literal Nazis to represent them in court,\u201d Gallego posted to X. \u201cAnd instead of kicking him out for white supremacy, they reward him by&nbsp;. .",
+      "sentiment": 0.0,
+      "severity_score": 75.0
+    },
+    {
+      "keyword": "white supremacy",
+      "title": "Rashida Tlaib Accuses DHS Of Using 'Neo-Nazi Anthem' In Ad - YouTube",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DmDR3U5lpKNw&ct=ga&cd=CAIyHDQxMWE1YzIxYzQ0YzYxZjA6Y29tOmVuOlVTOlI&usg=AOvVaw0Hj1gljh7SUhfVUwtgMG_Q",
+      "full_text": "5:00 &middot; Go to channel C-SPAN &middot; Candace Owens at hearing on Confronting White Supremacy. C-SPAN\u20227.4M views &middot; 5:58 &middot; Go to channel Forbes Breaking News&nbsp;...",
+      "summary": "5:00 &middot; Go to channel C-SPAN &middot; Candace Owens at hearing on Confronting White Supremacy. C-SPAN\u20227. 4M views &middot; 5:58 &middot; Go to channel Forbes Breaking News&nbsp;.",
+      "sentiment": 0.0,
+      "severity_score": 75.0
+    },
+    {
+      "keyword": "white supremacy",
+      "title": "Nazi Slogans and White Nationalist Anthems - Jewish Democratic Council of America",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://jewishdems.org/nazi-slogans-and-white-nationalist-anthems/&ct=ga&cd=CAIyHDQxMWE1YzIxYzQ0YzYxZjA6Y29tOmVuOlVTOlI&usg=AOvVaw0wRmQrFB1zP8lUK5wNRF5Y",
+      "full_text": "At JDCA, we have opportunities for you to engage with your members of Congress and call on them to condemn white supremacy, hate, and antisemitism&nbsp;...",
+      "summary": "At JDCA, we have opportunities for you to engage with your members of Congress and call on them to condemn white supremacy, hate, and antisemitism&nbsp;. . .",
+      "sentiment": -0.4,
+      "severity_score": 85.0
+    },
+    {
+      "keyword": "white supremacy",
+      "title": "Br'er Vivek - CounterPunch.org",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.counterpunch.org/2026/01/16/brer-vivek/&ct=ga&cd=CAIyHDQxMWE1YzIxYzQ0YzYxZjA6Y29tOmVuOlVTOlI&usg=AOvVaw1UUAtvYgC3u3YopQd7NQOv",
+      "full_text": "They call his people J-word. After some MAGAs insulted him and the Vice President's wife, Usha Vance, does he still believe that white supremacy doesn&nbsp;...",
+      "summary": "They call his people J-word. After some MAGAs insulted him and the Vice President's wife, Usha Vance, does he still believe that white supremacy doesn&nbsp;. .",
+      "sentiment": 0.0,
+      "severity_score": 75.0
+    },
+    {
+      "keyword": "white supremacy",
+      "title": "Martin Luther King Jr. Had More Than A Dream - ACLU of Wisconsin",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.aclu-wi.org/news/martin-luther-king-jr-had-more-than-a-dream/&ct=ga&cd=CAIyHDQxMWE1YzIxYzQ0YzYxZjA6Y29tOmVuOlVTOlI&usg=AOvVaw06PLVvNgp7gUptgn6YBB8M",
+      "full_text": "Her death revealed a lesson that shows how violence rooted in white supremacy will eventually come for us all. There is no one that is exempt from&nbsp;...",
+      "summary": "Her death revealed a lesson that shows how violence rooted in white supremacy will eventually come for us all. There is no one that is exempt from&nbsp;. .",
+      "sentiment": 0.0,
+      "severity_score": 75.0
+    },
+    {
+      "keyword": "white supremacy",
+      "title": "EMU student petition urges university to remove MLK Luncheon speaker - The Eastern Echo",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.easternecho.com/article/2026/01/emu-student-petition-urges-university-to-remove-mlk-luncheon-speaker&ct=ga&cd=CAIyHDQxMWE1YzIxYzQ0YzYxZjA6Y29tOmVuOlVTOlI&usg=AOvVaw1G4rnAGj7r-LhyyoP7GRqI",
+      "full_text": "... white supremacy, colonization and oppression,&quot; stated the post. In a statement by Vice President for Communications Walter Kraft said Eastern&nbsp;...",
+      "summary": ". . .",
+      "sentiment": 0.0,
+      "severity_score": 75.0
+    },
+    {
+      "keyword": "white supremacy",
+      "title": "Cea Weaver's Comments Were Shocking. They Used to be Normal. - City Journal",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.city-journal.org/article/cea-weaver-homeownership-social-media-zohran-mamdani&ct=ga&cd=CAIyHDQxMWE1YzIxYzQ0YzYxZjA6Y29tOmVuOlVTOlI&usg=AOvVaw3EPGCdpEEbMjUC_fLKr9yZ",
+      "full_text": "... white supremacy,\u201d and calling for policies to \u201cimpoverish the white middle class.\u201d I dislike the attitudes expressed in these posts. I even think&nbsp;...",
+      "summary": ". . .",
+      "sentiment": 0.0,
+      "severity_score": 75.0
+    },
+    {
+      "keyword": "white supremacy",
+      "title": "Virginia Lawmakers Ask Voters to Repeal Jim Crow-Era Lifetime Ban on Voting - Bolts Mag",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://boltsmag.org/virginia-constitutional-amendment-to-repeal-lifetime-ban-on-voting/&ct=ga&cd=CAIyHDQxMWE1YzIxYzQ0YzYxZjA6Y29tOmVuOlVTOlI&usg=AOvVaw0kxbKId93wrCnm2HadHd1n",
+      "full_text": "... white supremacy. In a historic move this week, the state legislature advanced a constitutional amendment to repeal the ban. Democratic lawmakers&nbsp;...",
+      "summary": ". . .",
+      "sentiment": 0.13333333333333333,
+      "severity_score": 71.66666666666667
+    },
+    {
+      "keyword": "white supremacy",
+      "title": "With negativity on the uptick, college program pursues a more excellent way | Baptist Press",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.baptistpress.com/resource-library/news/with-negativity-on-the-uptick-college-program-pursues-a-more-excellent-way/&ct=ga&cd=CAIyHDQxMWE1YzIxYzQ0YzYxZjA6Y29tOmVuOlVTOlI&usg=AOvVaw0-xwJIciHy8yRy8h_bQNjH",
+      "full_text": "\u201cFrom fascism and communism to ISIS, Boko Haram, white supremacy, and genocides like Rwanda, the pattern tragically repeats itself. In America&nbsp;...",
+      "summary": "\u201cFrom fascism and communism to ISIS, Boko Haram, white supremacy, and genocides like Rwanda, the pattern tragically repeats itself. In America&nbsp;. .",
+      "sentiment": 0.0,
+      "severity_score": 75.0
+    },
+    {
+      "keyword": "white supremacy",
+      "title": "Nyc's Eric Adams Blasts Mamdani Pick for Comments - Moneywise",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://moneywise.com/news/real-estate-news/nycs-eric-adams-says-homeownership-is-how-immigrants-built-lasting-wealth-blasts-mamdani-pick-for-extreme-comments&ct=ga&cd=CAIyHDQxMWE1YzIxYzQ0YzYxZjA6Y29tOmVuOlVTOlI&usg=AOvVaw11jC2bd6Rw6LfNFM8FP7wA",
+      "full_text": "Weaver's tweet read: \u201cPrivate property including and kind of ESPECIALLY homeownership is a weapon of white supremacy masquerading as 'wealth building'&nbsp;...",
+      "summary": "Weaver's tweet read: \u201cPrivate property including and kind of ESPECIALLY homeownership is a weapon of white supremacy masquerading as 'wealth building'&nbsp;. . .",
+      "sentiment": 0.15,
+      "severity_score": 71.25
+    },
+    {
+      "keyword": "white supremacy",
+      "title": "Trump Rips of the Mask: My Conversation with Zeteo's John Harwood",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.whitetoolong.net/p/trump-rips-of-the-mask-my-conversation&ct=ga&cd=CAIyHDQxMWE1YzIxYzQ0YzYxZjA6Y29tOmVuOlVTOlI&usg=AOvVaw3O5AfT5AJOpOOyuQhk_cKz",
+      "full_text": "We also talk about how my latest book, The Hidden Roots of White Supremacy and a Path to a Shared American Future, traced the long history of these&nbsp;...",
+      "summary": "We also talk about how my latest book, The Hidden Roots of White Supremacy and a Path to a Shared American Future, traced the long history of these&nbsp;. . .",
+      "sentiment": 0.04722222222222223,
+      "severity_score": 73.81944444444444
+    },
+    {
+      "keyword": "white supremacy",
+      "title": "New ICE recruitment ad uses a song beloved by white supremacists - Audacy",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.audacy.com/kdkaradio/news/national/new-ice-ad-uses-a-song-beloved-by-white-supremacists&ct=ga&cd=CAIyHDQxMWE1YzIxYzQ0YzYxZjA6Y29tOmVuOlVTOlI&usg=AOvVaw07oIXgTrzmbkybpeWDQUzD",
+      "full_text": "... white supremacy.\u201d Department of Homeland Security under Secretary Kristi Noem (who made news for admitting in her memoir that she shot her own dog&nbsp;...",
+      "summary": ". . .",
+      "sentiment": 0.3,
+      "severity_score": 67.5
+    },
+    {
+      "keyword": "white supremacy",
+      "title": "It's Official: The People, Not the Politicians, Are Leading | The Nation",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.thenation.com/article/politics/newsletter-ice-protest-democrats/&ct=ga&cd=CAIyHDQxMWE1YzIxYzQ0YzYxZjA6Y29tOmVuOlVTOlI&usg=AOvVaw3z5Owfpr84CBshylES59K-",
+      "full_text": "So it was, it was a reverse discrimination.\u201d You don't have to be an expert in white supremacy to understand the core animus Trump is expressing here:&nbsp;...",
+      "summary": "So it was, it was a reverse discrimination. \u201d You don't have to be an expert in white supremacy to understand the core animus Trump is expressing here:&nbsp;. .",
+      "sentiment": 0.0,
+      "severity_score": 75.0
+    },
+    {
+      "keyword": "white supremacy",
+      "title": "Six ways the Trump administration tried to erase MLK's legacy in 2025",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.epi.org/blog/six-ways-the-trump-administration-tried-to-erase-mlks-legacy-in-2025/&ct=ga&cd=CAIyHDQxMWE1YzIxYzQ0YzYxZjA6Y29tOmVuOlVTOlI&usg=AOvVaw0JleDEYRWvFx-aHC2nOV2B",
+      "full_text": "The emboldened assertion of white supremacy in our political economy demands a renewed commitment to Dr. King's legacy of racial and economic justice.",
+      "summary": "The emboldened assertion of white supremacy in our political economy demands a renewed commitment to Dr. King's legacy of racial and economic justice. .",
+      "sentiment": 0.06666666666666667,
+      "severity_score": 73.33333333333333
+    },
+    {
+      "keyword": "white supremacy",
+      "title": "'White supremacy is a problem': Jasmine Crockett torches Kash Patel, a person of color, for ... - MSN",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.msn.com/en-us/health/wellness/white-supremacy-is-a-problem-jasmine-crockett-torches-kash-patel-a-person-of-color-for-doing-nothing-to-address-white-supremacy/vi-AA1Uh9T7%3Focid%3Dhpmsn%26cvid%3D8bfda3ce2e174121e9aa278077cf585c%26ei%3D79&ct=ga&cd=CAIyHDQxMWE1YzIxYzQ0YzYxZjA6Y29tOmVuOlVTOlI&usg=AOvVaw1D37BiuxFHyH-dEzo15-ZG",
+      "full_text": "... white supremacy in the country. &quot;The numbers are so very clear that white supremacy is a problem,&quot; Crockett stated.",
+      "summary": ". . .",
+      "sentiment": 0.04333333333333334,
+      "severity_score": 73.91666666666667
+    },
+    {
+      "keyword": "MAGA",
+      "title": "Opinion: Trump and his political cult have divided our nation - Citizen Times",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.citizen-times.com/story/opinion/2026/01/17/opinion-trumps-maga-political-cult-divide-worst-since-civil-war/88156627007/&ct=ga&cd=CAIyGmEzMjMwZDg4N2M0MDhmOWE6Y29tOmVuOlVT&usg=AOvVaw1hd3gRo7DTwMY6qrUusXTe",
+      "full_text": "Allow me to be frank as we face what I think is the greatest threat to American democracy in our history \u2014 the MAGA movement. \u201cMake America Great&nbsp;...",
+      "summary": "Allow me to be frank as we face what I think is the greatest threat to American democracy in our history \u2014 the MAGA movement. \u201cMake America Great&nbsp;. .",
+      "sentiment": 0.5,
+      "severity_score": 62.5
+    },
+    {
+      "keyword": "MAGA",
+      "title": "What a MAGA Military Operation in Mexico Could Look Like - Newsweek",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.newsweek.com/what-a-maga-military-operation-in-mexico-could-look-like-11330200&ct=ga&cd=CAIyGmEzMjMwZDg4N2M0MDhmOWE6Y29tOmVuOlVT&usg=AOvVaw3cKWArrRcenDPDACY9dPx5",
+      "full_text": "What a MAGA Military Operation in Mexico Could Look Like &middot; As President Donald Trump boasts a more assertive Western Hemisphere policy, his... &middot; The&nbsp;...",
+      "summary": "What a MAGA Military Operation in Mexico Could Look Like &middot; As President Donald Trump boasts a more assertive Western Hemisphere policy, his. . .",
+      "sentiment": 0.13333333333333333,
+      "severity_score": 71.66666666666667
+    },
+    {
+      "keyword": "MAGA",
+      "title": "Trump's shop of treasures: From a bling Trump clutch to a Maga dog bowtie, the choices are endless",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.irishtimes.com/life-style/people/2026/01/17/trump-store-bottomless-barrels-of-merchandise-promoting-the-us-president/&ct=ga&cd=CAIyGmEzMjMwZDg4N2M0MDhmOWE6Y29tOmVuOlVT&usg=AOvVaw0tlDr9XwDEL5WgzLd7lex_",
+      "full_text": "There's a special edition pink Maga hat for $55; a sweatshirt with Trump's name picked out in sequins, surrounded by red, white and blue stars, for&nbsp;...",
+      "summary": "There's a special edition pink Maga hat for $55; a sweatshirt with Trump's name picked out in sequins, surrounded by red, white and blue stars, for&nbsp;. . .",
+      "sentiment": 0.05142857142857142,
+      "severity_score": 73.71428571428572
+    },
+    {
+      "keyword": "MAGA",
+      "title": "What is all this talk of an Irish Maga? - The Irish Times",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.irishtimes.com/life-style/people/2026/01/17/what-is-all-this-talk-of-an-irish-maga/&ct=ga&cd=CAIyGmEzMjMwZDg4N2M0MDhmOWE6Y29tOmVuOlVT&usg=AOvVaw3G-VYDbHjBoPV8ITB8nkW_",
+      "full_text": "What is all this talk of an Irish Maga? There was a lot of admiration for Trump at a recent conference hosted by ex-financial adviser, Eddie Hobbs.",
+      "summary": "What is all this talk of an Irish Maga? There was a lot of admiration for Trump at a recent conference hosted by ex-financial adviser, Eddie Hobbs. .",
+      "sentiment": 0.0,
+      "severity_score": 75.0
+    },
+    {
+      "keyword": "MAGA",
+      "title": "In Fortress America, a narrowing of spaces, migrants on edge - Ram Madhav",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.rammadhav.in/articles/in-fortress-america-a-narrowing-of-spaces-migrants-on-edge/&ct=ga&cd=CAIyGmEzMjMwZDg4N2M0MDhmOWE6Y29tOmVuOlVT&usg=AOvVaw2YLE8jdQIpop4uZ6huDkWM",
+      "full_text": "Their dilemma was understandable, as the growing MAGA movement was demanding greater loyalty from the American citizens and the immigrant communities&nbsp;...",
+      "summary": "Their dilemma was understandable, as the growing MAGA movement was demanding greater loyalty from the American citizens and the immigrant communities&nbsp;. . .",
+      "sentiment": 0.25,
+      "severity_score": 68.75
+    },
+    {
+      "keyword": "MAGA",
+      "title": "Why has more Maga mayhem equalled ever-higher stocks? - Financial Times",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.ft.com/content/7f0aa635-cfad-4d59-8a96-a926a4a01520&ct=ga&cd=CAIyGmEzMjMwZDg4N2M0MDhmOWE6Y29tOmVuOlVT&usg=AOvVaw3X28FCgyj1twKS-JMcPLMj",
+      "full_text": "Why has more Maga mayhem equalled ever-higher stocks? There are three possible explanations and investors must choose one. Stuart Kirk. Add to myFT.",
+      "summary": "Why has more Maga mayhem equalled ever-higher stocks? There are three possible explanations and investors must choose one. Stuart Kirk. Add to myFT.",
+      "sentiment": 0.25,
+      "severity_score": 68.75
+    },
+    {
+      "keyword": "MAGA",
+      "title": "Christina - MAGA is trying to give Donald Trump credit for this chart. Critical thinking isn't ...",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/christinaloreynews/photos/maga-is-trying-to-give-donald-trump-credit-for-this-chart-critical-thinking-isnt/1289176569696252/&ct=ga&cd=CAIyGmEzMjMwZDg4N2M0MDhmOWE6Y29tOmVuOlVT&usg=AOvVaw2ioHT0hzbg_i_y8oRq-2Mw",
+      "full_text": "MAGA is trying to give Donald Trump credit for this chart. Critical thinking isn't their strong suit\u2026 clearly.",
+      "summary": "MAGA is trying to give Donald Trump credit for this chart. Critical thinking isn't their strong suit\u2026 clearly. .",
+      "sentiment": 0.17777777777777778,
+      "severity_score": 70.55555555555556
+    },
+    {
+      "keyword": "MAGA",
+      "title": "Ludacris Drops Out of Kid Rock's 'Rock the Country' Tour After Outrage - TMZ",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.tmz.com/2026/01/16/ludacris-drops-out-kid-rock-country-tour/&ct=ga&cd=CAIyGmEzMjMwZDg4N2M0MDhmOWE6Y29tOmVuOlVT&usg=AOvVaw3-9u0WwDRmt7SGnWFPBw2t",
+      "full_text": "Some folks view Kid Rock's music festival as part of the MAGA movement ... and Ludacris was getting roasted in some corners of the internet for&nbsp;...",
+      "summary": "Some folks view Kid Rock's music festival as part of the MAGA movement . . .",
+      "sentiment": 0.0,
+      "severity_score": 75.0
+    },
+    {
+      "keyword": "MAGA",
+      "title": "Ludacris drops out of festival with Kid Rock after backlash from fans over MAGA claims",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://ew.com/ludacris-drops-out-of-rock-the-country-festival-lineup-after-fan-backlash-11887716&ct=ga&cd=CAIyGmEzMjMwZDg4N2M0MDhmOWE6Y29tOmVuOlVT&usg=AOvVaw0RCCZ1hKtJqQ3Q7NqwqRlr",
+      "full_text": "&quot;Sad to hear you're joining the maga festival, you were a favorite of mine,&quot; one person wrote, while another shared, &quot;WHY are you playing at a MAGA&nbsp;...",
+      "summary": "&quot;Sad to hear you're joining the maga festival, you were a favorite of mine,&quot; one person wrote, while another shared, &quot;WHY are you playing at a MAGA&nbsp;. . .",
+      "sentiment": 0.5,
+      "severity_score": 62.5
+    },
+    {
+      "keyword": "MAGA",
+      "title": "Ludacris Will No Longer Perform At MAGA-Adjacent Country Festival - HotNewHipHop",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.hotnewhiphop.com/971424-ludacris-will-no-longer-perform-maga-adjacent-country-festival&ct=ga&cd=CAIyGmEzMjMwZDg4N2M0MDhmOWE6Y29tOmVuOlVT&usg=AOvVaw2LlNfpJePMpijcCs1KVSTg",
+      "full_text": "... MAGA movement. But previous iterations did hold some political weight. For example, Donald Trump himself presented headliner Kid Rock last year&nbsp;...",
+      "summary": ". . .",
+      "sentiment": -0.05555555555555555,
+      "severity_score": 76.38888888888889
+    },
+    {
+      "keyword": "MAGA",
+      "title": "Kennedy Center Hit by New Cancellation After Going Full MAGA - The Daily Beast",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.thedailybeast.com/kennedy-center-hit-by-new-cancellation-after-going-full-maga/&ct=ga&cd=CAIyGmEzMjMwZDg4N2M0MDhmOWE6Y29tOmVuOlVT&usg=AOvVaw3JiTwxtCRYVJ_6AjlzaAvo",
+      "full_text": "Kennedy Center Hit by New Cancellation After Going Full MAGA &middot; America's oldest dance troupe adds its name to the list of performers skipping the&nbsp;...",
+      "summary": "Kennedy Center Hit by New Cancellation After Going Full MAGA &middot; America's oldest dance troupe adds its name to the list of performers skipping the&nbsp;. . .",
+      "sentiment": 0.12878787878787878,
+      "severity_score": 71.78030303030303
+    },
+    {
+      "keyword": "MAGA",
+      "title": "Bad Bunny's Super Bowl teaser sends powerful message after MAGA backlash over halftime show",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.the-independent.com/arts-entertainment/music/news/bad-bunny-super-bowl-trailer-reactions-b2902255.html&ct=ga&cd=CAIyGmEzMjMwZDg4N2M0MDhmOWE6Y29tOmVuOlVT&usg=AOvVaw3245_-7xQOAnCm3xIFkaIA",
+      "full_text": "The message of unity has been interpreted by many fans as a riposte to the MAGA backlash Bad Bunny received when he was announced as the halftime&nbsp;...",
+      "summary": "The message of unity has been interpreted by many fans as a riposte to the MAGA backlash Bad Bunny received when he was announced as the halftime&nbsp;. . .",
+      "sentiment": -0.09999999999999992,
+      "severity_score": 77.5
+    },
+    {
+      "keyword": "MAGA",
+      "title": "Golf Author Tees Off on MAGA After Trump Ally's Bombshell Cheating Testimony - Yahoo",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.yahoo.com/news/articles/golf-author-tees-off-maga-140819009.html&ct=ga&cd=CAIyGmEzMjMwZDg4N2M0MDhmOWE6Y29tOmVuOlVT&usg=AOvVaw3jX_ywpNshgzDAQA3WrhI4",
+      "full_text": "A golf author has ripped into President Donald Trump and his supporters after the emergence of bombshell testimony from MAGA Sen. Lindsey Graham.",
+      "summary": "A golf author has ripped into President Donald Trump and his supporters after the emergence of bombshell testimony from MAGA Sen. Lindsey Graham. .",
+      "sentiment": 0.0,
+      "severity_score": 75.0
+    },
+    {
+      "keyword": "MAGA",
+      "title": "Trump Sets Fraudster Free From Prison for a Second Time - The New York Times",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.nytimes.com/2026/01/16/us/politics/trump-fraudster-pardon.html&ct=ga&cd=CAIyGmEzMjMwZDg4N2M0MDhmOWE6Y29tOmVuOlVT&usg=AOvVaw2wogK4rlWjPr30EcyMB_y2",
+      "full_text": "In late 2024, while Mr. Herrera was facing felony bribery and other charges in the case, his daughter, Isabela Herrera, donated $2.5 million to MAGA&nbsp;...",
+      "summary": "In late 2024, while Mr. Herrera was facing felony bribery and other charges in the case, his daughter, Isabela Herrera, donated $2. 5 million to MAGA&nbsp;.",
+      "sentiment": -0.2125,
+      "severity_score": 80.3125
+    },
+    {
+      "keyword": "MAGA",
+      "title": "Melber probes indie backlash to MAGA slump &amp; disappointing Dems - YouTube",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DdH47e9kdJw0&ct=ga&cd=CAIyGmEzMjMwZDg4N2M0MDhmOWE6Y29tOmVuOlVT&usg=AOvVaw2ST04A7kdYMq-CcxfJsIJD",
+      "full_text": "... $3-meal scandal: Melber probes indie backlash to MAGA slump &amp; disappointing Dems. No views \u00b7 1 minute ago. #MAGA #trump #whitehouse ...more. MS NOW.",
+      "summary": ". . .",
+      "sentiment": -0.3,
+      "severity_score": 82.5
+    },
+    {
+      "keyword": "MAGA",
+      "title": "Letter: What will it take for MAGA to wake up - Buffalo News",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://buffalonews.com/opinion/letters/article_e326e7bd-8b7e-40f6-adb7-18c03b181e7a.html&ct=ga&cd=CAIyGmEzMjMwZDg4N2M0MDhmOWE6Y29tOmVuOlVT&usg=AOvVaw2SI2Up64-OYumE3DcIjxFX",
+      "full_text": "Letter: What will it take for MAGA to wake up. Jan 16, 2026; 11 hrs ago; 0.",
+      "summary": "Letter: What will it take for MAGA to wake up. Jan 16, 2026; 11 hrs ago; 0. .",
+      "sentiment": 0.0,
+      "severity_score": 75.0
+    },
+    {
+      "keyword": "MAGA",
+      "title": "Pro-Trump group unleashes blueprint for crucial housing initiative featuring top MAGA influencer",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.foxnews.com/politics/pro-trump-group-unleashes-blueprint-crucial-housing-initiative-featuring-top-maga-influencer&ct=ga&cd=CAIyGmEzMjMwZDg4N2M0MDhmOWE6Y29tOmVuOlVT&usg=AOvVaw3vd82ewga-T842Gr6sncya",
+      "full_text": "The result of more expensive homes is the delay of a significant life milestone: homeownership,&quot; the MAGA housing initiative's policy white paper&nbsp;...",
+      "summary": "The result of more expensive homes is the delay of a significant life milestone: homeownership,&quot; the MAGA housing initiative's policy white paper&nbsp;. . .",
+      "sentiment": 0.09375,
+      "severity_score": 72.65625
+    },
+    {
+      "keyword": "MAGA",
+      "title": "Column: Trump threatens Greenland \u2014 and by extension, NATO - The Virginian-Pilot",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.pilotonline.com/2026/01/16/column-trump-threatens-greenland-and-by-extension-nato/&ct=ga&cd=CAIyGmEzMjMwZDg4N2M0MDhmOWE6Y29tOmVuOlVT&usg=AOvVaw08VMAL_pt0T9crGISVOrZa",
+      "full_text": "Jesper Toennesen \u2014 the creator of the Anti-MAGA cap &quot;Nu det NUUK!&quot; poses&nbsp;...",
+      "summary": "Jesper Toennesen \u2014 the creator of the Anti-MAGA cap &quot;Nu det NUUK!&quot; poses&nbsp;. . .",
+      "sentiment": 0.0,
+      "severity_score": 75.0
+    },
+    {
+      "keyword": "MAGA",
+      "title": "MAGA targets Brian Mast over AI chips regulation - Axios",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.axios.com/2026/01/16/maga-brian-mast-ai-chips&ct=ga&cd=CAIyGmEzMjMwZDg4N2M0MDhmOWE6Y29tOmVuOlVT&usg=AOvVaw1hZgjT8ASiL-LnOovolIiN",
+      "full_text": "Top MAGA influencers, including Laura Loomer and David Sacks, are picking a public fight with a key GOP lawmaker over who should regulate the sale of&nbsp;...",
+      "summary": "Top MAGA influencers, including Laura Loomer and David Sacks, are picking a public fight with a key GOP lawmaker over who should regulate the sale of&nbsp;. . .",
+      "sentiment": 0.16666666666666666,
+      "severity_score": 70.83333333333334
+    },
+    {
+      "keyword": "MAGA",
+      "title": "Trump Pardons 21: Convicted Fraudster Gets Freed By Trump For 2nd Time - Forbes",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.forbes.com/sites/antoniopequenoiv/2026/01/16/trump-pardons-convicted-fraudster-for-the-second-time-in-five-years/&ct=ga&cd=CAIyGmEzMjMwZDg4N2M0MDhmOWE6Y29tOmVuOlVT&usg=AOvVaw3LMiEz7bqXWaNWGwpkG6-K",
+      "full_text": "Wanda V\u00e1zquez, was also pardoned, The New York Times reported (Velutini's daughter, Isabela Herrera, donated $2.5 million to Trump super PAC MAGA Inc.",
+      "summary": "Wanda V\u00e1zquez, was also pardoned, The New York Times reported (Velutini's daughter, Isabela Herrera, donated $2. 5 million to Trump super PAC MAGA Inc. .",
+      "sentiment": 0.23484848484848483,
+      "severity_score": 69.12878787878788
+    },
+    {
+      "keyword": "anti-racism",
+      "title": "French publisher recalls dictionary over 'Jewish settler' reference - AL-Monitor",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.al-monitor.com/originals/2026/01/french-publisher-recalls-dictionary-over-jewish-settler-reference&ct=ga&cd=CAIyHDE3OWFkZDUxMDQyMDFhZTk6Y29tOmVuOlVTOlI&usg=AOvVaw2dB1mUHYheRTJkEgBqHFk9",
+      "full_text": "... anti-racism body in three revision books, the company told AFP ... The Larousse dictionary for 11- to 15-year-old students contained the same phrase as&nbsp;...",
+      "summary": ". . .",
+      "sentiment": 0.0,
+      "severity_score": 75.0
+    },
+    {
+      "keyword": "anti-racism",
+      "title": "MLK's dream should be a dream for all Americans | News, Sports, Jobs - Morning Journal",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.morningjournalnews.com/opinion/editorials/2026/01/mlks-dream-should-be-a-dream-for-all-americans/&ct=ga&cd=CAIyHDE3OWFkZDUxMDQyMDFhZTk6Y29tOmVuOlVTOlI&usg=AOvVaw2bGfIrkd9td8lFbuvdXsQ_",
+      "full_text": "... anti-racism. Dr. King was born Jan. 15, 1929 and died April 4, 1968 \u2014 an hour after being shot while standing on a hotel balcony in Memphis. He&nbsp;...",
+      "summary": ". . .",
+      "sentiment": 0.0,
+      "severity_score": 75.0
+    },
+    {
+      "keyword": "anti-racism",
+      "title": "Academic Career &amp; Executive Search (ACES) selected by Southern Illinois University ...",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://huntscanlon.com/academic-career-executive-search-aces-selected-by-southern-illinois-university-edwardsville-for-associate-vice-chancellor-for-human-resources-search/&ct=ga&cd=CAIyHDE3OWFkZDUxMDQyMDFhZTk6Y29tOmVuOlVTOlI&usg=AOvVaw0AyeRVFSzMB9BsXw7dKUN2",
+      "full_text": "... anti-racism. Reporting to the Vice Chancellor for Finance and Administration and working closely with the Chancellor and senior leadership, the&nbsp;...",
+      "summary": ". . .",
+      "sentiment": 0.0,
+      "severity_score": 75.0
+    },
+    {
+      "keyword": "anti-racism",
+      "title": "N.B. opens new anti-racism office, but leaves\u2026 - National Newswatch",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://nationalnewswatch.com/2026/01/16/n-b-opens-new-anti-racism-office-but-leaves-examination-of-police-racism-in-limbo&ct=ga&cd=CAIyHDE3OWFkZDUxMDQyMDFhZTk6Y29tOmVuOlVTOlI&usg=AOvVaw1S3lULrAt8Q5yCgx-p23uA",
+      "full_text": "N.B. opens new anti-racism office, but leaves examination of police racism in limbo. Author(s). The Canadian Press. Source. Canadian Press. Posted.",
+      "summary": "N. B. opens new anti-racism office, but leaves examination of police racism in limbo.",
+      "sentiment": 0.13636363636363635,
+      "severity_score": 71.5909090909091
+    },
+    {
+      "keyword": "anti-racism",
+      "title": "When a racist refusal of the Eucharist becomes a tool for competing nationalisms",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://religionnews.com/2026/01/16/when-a-racist-refusal-of-the-eucharist-becomes-a-tool-for-competing-nationalisms/&ct=ga&cd=CAIyHDE3OWFkZDUxMDQyMDFhZTk6Y29tOmVuOlVTOlI&usg=AOvVaw0HBe9VPjO0dXLbgstj-mHQ",
+      "full_text": "Refusals at the altar, nationalist bullying masquerading as anti-racism and recycled tropes of contamination are symptoms, not stunts \u2014 signals of&nbsp;...",
+      "summary": "Refusals at the altar, nationalist bullying masquerading as anti-racism and recycled tropes of contamination are symptoms, not stunts \u2014 signals of&nbsp;. . .",
+      "sentiment": 0.0,
+      "severity_score": 75.0
+    },
+    {
+      "keyword": "anti-racism",
+      "title": "Martin Luther King Jr. community celebration to take place Monday - Hanford Sentinel",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://hanfordsentinel.com/community/selma-kingsburg/news/martin-luther-king-jr-community-celebration-to-take-place-monday/article_f368fb70-0c22-48a1-bac8-03657b8ebbcd.html&ct=ga&cd=CAIyHDE3OWFkZDUxMDQyMDFhZTk6Y29tOmVuOlVTOlI&usg=AOvVaw34K57L_RRY01QU1hiVH8NH",
+      "full_text": "Activists Against Anti-black Racism &middot; American Anti-racism Activists &middot; Presidency Of Lyndon B. Johnson &middot; Families From Georgia (u.s. State) &middot; Politics&nbsp;...",
+      "summary": "Activists Against Anti-black Racism &middot; American Anti-racism Activists &middot; Presidency Of Lyndon B. Johnson &middot; Families From Georgia (u. s.",
+      "sentiment": 0.0,
+      "severity_score": 75.0
+    },
+    {
+      "keyword": "anti-racism",
+      "title": "Anti-racism watchdog fields complaint after separatist town hall | Edmonton Journal",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://edmontonjournal.com/news/local-news/anti-racism-watchdog-field-complaint-arising-from-immigration-comments-made-at-separatist-town-hall&ct=ga&cd=CAIyHDE3OWFkZDUxMDQyMDFhZTk6Y29tOmVuOlVTOlI&usg=AOvVaw3f8cTiUasLnvtXOQGsT0RB",
+      "full_text": "Anti-racism watchdog fields complaint arising from immigration comments made at separatist town hall. The complainant said Alberta Prosperity&nbsp;...",
+      "summary": "Anti-racism watchdog fields complaint arising from immigration comments made at separatist town hall. The complainant said Alberta Prosperity&nbsp;. .",
+      "sentiment": -0.3,
+      "severity_score": 82.5
+    },
+    {
+      "keyword": "anti-racism",
+      "title": "WATCH: Lexington prepares for 2026 MLK Day community parade",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.wsls.com/news/local/2026/01/16/watch-lexington-prepares-for-2026-mlk-day-community-parade/&ct=ga&cd=CAIyHDE3OWFkZDUxMDQyMDFhZTk6Y29tOmVuOlVTOlI&usg=AOvVaw0B9smKoieJn-GSOCBLy3CT",
+      "full_text": "The parade is hosted by CARE Rockbridge, which stands for Community Anti-Racism Effort. Since its inception, the event has grown in size every&nbsp;...",
+      "summary": "The parade is hosted by CARE Rockbridge, which stands for Community Anti-Racism Effort. Since its inception, the event has grown in size every&nbsp;. .",
+      "sentiment": -0.25,
+      "severity_score": 81.25
+    },
+    {
+      "keyword": "anti-racism",
+      "title": "El Paso Firsts \u2013 Times El Chuco Led The Way - KLAQ",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://klaq.com/things-el-paso-did-first-history/&ct=ga&cd=CAIyHDE3OWFkZDUxMDQyMDFhZTk6Y29tOmVuOlVTOlI&usg=AOvVaw0-7x9OhgCD14YRmOW3nAo5",
+      "full_text": "El Paso wasn't always anti-racism and initial laws against smoking pot were really intended to control the local Mexican population. Really. Just&nbsp;...",
+      "summary": "El Paso wasn't always anti-racism and initial laws against smoking pot were really intended to control the local Mexican population. Really. Just&nbsp;.",
+      "sentiment": 0.08,
+      "severity_score": 73.0
+    },
+    {
+      "keyword": "anti-racism",
+      "title": "Liberals creating 'anti-racism office' to address systemic problem | Telegraph-Journal",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://tj.news/new-brunswick/liberals-creating-anti-racism-office-to-address-systemic-problem&ct=ga&cd=CAIyHDE3OWFkZDUxMDQyMDFhZTk6Y29tOmVuOlVTOlI&usg=AOvVaw0w7FKR_JjiQeocUey_qyrw",
+      "full_text": "... anti-racism office\u201d inside the Department of Post-Secondary Education, Training and Labour (PETL) and a website to track its progress on 86&nbsp;...",
+      "summary": ". . .",
+      "sentiment": 0.0,
+      "severity_score": 75.0
+    },
+    {
+      "keyword": "anti-racism",
+      "title": "Sunderland standout, ceremony planned to remember MLK - Greenfield Recorder",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://recorder.com/2026/01/16/sunderland-mlk-commemoration-event/&ct=ga&cd=CAIyHDE3OWFkZDUxMDQyMDFhZTk6Y29tOmVuOlVTOlI&usg=AOvVaw09gRRIQWM5y20jRojKXrE0",
+      "full_text": "... anti-racism standout, on Monday, Jan. 19. The event will take place at the intersection of Routes 116 and 47 in the town center. The standout&nbsp;...",
+      "summary": ". . .",
+      "sentiment": -0.1,
+      "severity_score": 77.5
+    },
+    {
+      "keyword": "anti-racism",
+      "title": "N.B. opens new anti-racism office, but leaves examination of police racism in limbo",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.townandcountrytoday.com/atlantic-news/nb-opens-new-anti-racism-office-but-leaves-examination-of-police-racism-in-limbo-11750114&ct=ga&cd=CAIyHDE3OWFkZDUxMDQyMDFhZTk6Y29tOmVuOlVTOlI&usg=AOvVaw15Srcah53D6iozMgDNzUMU",
+      "full_text": "FREDERICTON \u2014 The New Brunswick government's first official response to a 2022 report on systemic racism includes the creation of a new anti-racism&nbsp;...",
+      "summary": "FREDERICTON \u2014 The New Brunswick government's first official response to a 2022 report on systemic racism includes the creation of a new anti-racism&nbsp;. . .",
+      "sentiment": 0.17424242424242423,
+      "severity_score": 70.64393939393939
+    },
+    {
+      "keyword": "anti-racism",
+      "title": "French Publisher Recalls Dictionary Over 'Jewish Settler' Reference - Barron's",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.barrons.com/news/french-publisher-recalls-dictionary-over-jewish-settler-reference-c0174638&ct=ga&cd=CAIyHDE3OWFkZDUxMDQyMDFhZTk6Y29tOmVuOlVTOlI&usg=AOvVaw3RXeI9nL_h5uOqFQcDe1KA",
+      "full_text": "The Larousse dictionary for 11- to 15-year-old students contained the same phrase as that discovered by an anti-racism body in three revision books,&nbsp;...",
+      "summary": "The Larousse dictionary for 11- to 15-year-old students contained the same phrase as that discovered by an anti-racism body in three revision books,&nbsp;. . .",
+      "sentiment": 0.0,
+      "severity_score": 75.0
+    },
+    {
+      "keyword": "anti-racism",
+      "title": "The West Midlands witch hunt: Why the police were right to ban Maccabi fans | Counterfire",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.counterfire.org/article/the-west-midlands-witch-hunt-why-the-police-were-right-to-ban-maccabi-fans/&ct=ga&cd=CAIyHDE3OWFkZDUxMDQyMDFhZTk6Y29tOmVuOlVTOlI&usg=AOvVaw2lWrWujW9awf7H05nbINJr",
+      "full_text": "Zahid Rahman. Tagged under: Police &middot; Anti-racism &middot; Britain &middot; Fascism.",
+      "summary": "Zahid Rahman. Tagged under: Police &middot; Anti-racism &middot; Britain &middot; Fascism. .",
+      "sentiment": 0.0,
+      "severity_score": 75.0
+    },
+    {
+      "keyword": "anti-racism",
+      "title": "Drawing a Legal Line on DEI Coercion",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.city-journal.org/article/diversity-training-dei-henderson-v-springfield-r-12-school-district-speech&ct=ga&cd=CAIyHDE3OWFkZDUxMDQyMDFhZTk6Y29tOmVuOlVTOlI&usg=AOvVaw3Jpdv0KBdZcKKylooxDF46",
+      "full_text": "... anti-racism&quot;. RonRonDoRon \u2022 22 hours ago. Utopianism, of any variety, unless it implides quickly, always eventually becomes coercive and then&nbsp;...",
+      "summary": ". . .",
+      "sentiment": 0.3333333333333333,
+      "severity_score": 66.66666666666667
+    },
+    {
+      "keyword": "anti-racism",
+      "title": "Cartwright ES Receives $50,000 Grant to Enhance STREAM Program - CCSD Newsroom",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://newsroom.ccsd.net/cartwright-es-receives-50000-grant-to-enhance-stream-program/&ct=ga&cd=CAIyHDE3OWFkZDUxMDQyMDFhZTk6Y29tOmVuOlVTOlI&usg=AOvVaw3_hTw4mdNrOgG0VT84Oso-",
+      "full_text": "Legal. Title IX &middot; Notice of Nondiscrimination &middot; Accessibility Statement &middot; Policy 5139 Anti-Racism, Equity, and Inclusion &middot; Facebook X (Twitter)&nbsp;...",
+      "summary": "Legal. Title IX &middot; Notice of Nondiscrimination &middot; Accessibility Statement &middot; Policy 5139 Anti-Racism, Equity, and Inclusion &middot; Facebook X (Twitter)&nbsp;. .",
+      "sentiment": 0.2,
+      "severity_score": 70.0
+    },
+    {
+      "keyword": "anti-racism",
+      "title": "N.B. government opens new anti-racism office in response to 2022 report | 980 CJME",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.cjme.com/2026/01/16/n-b-government-opens-new-anti-racism-office-in-response-to-2022-report/&ct=ga&cd=CAIyHDE3OWFkZDUxMDQyMDFhZTk6Y29tOmVuOlVTOlI&usg=AOvVaw3mgpbETwmgF6rcxod8mGNA",
+      "full_text": "... has become the fifth province in Canada to create an anti-racism office. Minister of Post-Secondary Education, T...",
+      "summary": ". . .",
+      "sentiment": 0.0,
+      "severity_score": 75.0
+    },
+    {
+      "keyword": "anti-racism",
+      "title": "MLK events scheduled this weekend | News | gainesvilleregister.com",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.gainesvilleregister.com/news/mlk-events-scheduled-this-weekend/article_71b2c813-d11e-4db4-8cf9-01860a6c7f0e.html&ct=ga&cd=CAIyHDE3OWFkZDUxMDQyMDFhZTk6Y29tOmVuOlVTOlI&usg=AOvVaw29fG4GfLRLrBs8EScPhJgJ",
+      "full_text": "Family Of Martin Luther King Jr. Activists Against Anti-black Racism &middot; Christian Ministry Families &middot; American Anti-racism Activists &middot; Activists For&nbsp;...",
+      "summary": "Family Of Martin Luther King Jr. Activists Against Anti-black Racism &middot; Christian Ministry Families &middot; American Anti-racism Activists &middot; Activists For&nbsp;. .",
+      "sentiment": 0.0,
+      "severity_score": 75.0
+    },
+    {
+      "keyword": "anti-racism",
+      "title": "Downtown Erie march, film festival to honor Martin Luther King Jr.",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.goerie.com/story/news/local/2026/01/16/mlk-day-events-erie-pa-downtown-march-performances/88198917007/&ct=ga&cd=CAIyHDE3OWFkZDUxMDQyMDFhZTk6Y29tOmVuOlVTOlI&usg=AOvVaw1ukC4UsSxEoxBRm_aVrUDm",
+      "full_text": "... anti-racism. The festival will take place Jan. 18, from 12:30 to 8 p.m. at Walker Recital Hall in the Hirt Academic Building. The event is free&nbsp;...",
+      "summary": ". . .",
+      "sentiment": 0.0,
+      "severity_score": 75.0
+    },
+    {
+      "keyword": "anti-racism",
+      "title": "La Liga condemns racist abuse of Vinicius at Albacete v Real Madrid | OneFootball",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://onefootball.com/de/news/la-liga-condemns-racist-abuse-of-vinicius-at-albacete-v-real-madrid-42238280&ct=ga&cd=CAIyHDE3OWFkZDUxMDQyMDFhZTk6Y29tOmVuOlVTOlI&usg=AOvVaw2QpHY-A25fr5xGXZx0v133",
+      "full_text": "... anti-racism slogan. OneFootball Videos. A video showed a group of Albacete supporters gathered outside the Carlos Belmonte stadium before the match&nbsp;...",
+      "summary": ". . .",
+      "sentiment": 0.0,
+      "severity_score": 75.0
+    },
+    {
+      "keyword": "racism",
+      "title": "N.B. opens new anti-racism office, but leaves examination of police racism in limbo",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.rmoutlook.com/politics/nb-opens-new-anti-racism-office-but-leaves-examination-of-police-racism-in-limbo-11750111&ct=ga&cd=CAIyHGMzM2Q0MWQxMjg3MGVkYTA6Y29tOmVuOlVTOlI&usg=AOvVaw0iTaW8BPz6Tp7qB3rH-H0a",
+      "full_text": "FREDERICTON \u2014 The New Brunswick government's first official response to a 2022 report on systemic racism includes the creation of a new&nbsp;...",
+      "summary": "FREDERICTON \u2014 The New Brunswick government's first official response to a 2022 report on systemic racism includes the creation of a new&nbsp;. . .",
+      "sentiment": 0.19318181818181818,
+      "severity_score": 70.17045454545455
+    },
+    {
+      "keyword": "racism",
+      "title": "McKone: Slighting MLK and honoring a racism denier | Perspective | rutlandherald.com",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.rutlandherald.com/opinion/perspective/mckone-slighting-mlk-and-honoring-a-racism-denier/article_668fa07c-cb8d-4777-953b-5f8befdccc9d.html&ct=ga&cd=CAIyHGMzM2Q0MWQxMjg3MGVkYTA6Y29tOmVuOlVTOlI&usg=AOvVaw12ovrKvqp5E1VmAQeOgMbm",
+      "full_text": "The two main points of the speech are the longstanding oppression of Black Americans and King's faith that eventually racism will end, and \u201call of&nbsp;...",
+      "summary": "The two main points of the speech are the longstanding oppression of Black Americans and King's faith that eventually racism will end, and \u201call of&nbsp;. . .",
+      "sentiment": 0.0,
+      "severity_score": 75.0
+    },
+    {
+      "keyword": "racism",
+      "title": "Man seen on viral video shouting racist slurs at security guard in Gwinnett County arrested",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DpJ6QO-PxuDI&ct=ga&cd=CAIyHGMzM2Q0MWQxMjg3MGVkYTA6Y29tOmVuOlVTOlI&usg=AOvVaw12182W-DG7Vrc46qi4YgCn",
+      "full_text": "Man seen on viral video shouting racist slurs at security guard in Gwinnett County arrested. 3 views \u00b7 8 minutes ago ...more&nbsp;...",
+      "summary": "Man seen on viral video shouting racist slurs at security guard in Gwinnett County arrested. 3 views \u00b7 8 minutes ago . .",
+      "sentiment": 0.0,
+      "severity_score": 75.0
+    },
+    {
+      "keyword": "racism",
+      "title": "'I'm tired': Chesterton High student speaks out after racist letter and school suspension",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DDBjHPg_bEmI&ct=ga&cd=CAIyHGMzM2Q0MWQxMjg3MGVkYTA6Y29tOmVuOlVTOlI&usg=AOvVaw24n0s4kjTOBTs69In0oMoF",
+      "full_text": "A Chesterton High student speaks out about a racist letter he received at school, and then, he was suspended for :disrespect.&quot;",
+      "summary": "A Chesterton High student speaks out about a racist letter he received at school, and then, he was suspended for :disrespect. &quot;.",
+      "sentiment": 0.16,
+      "severity_score": 71.0
+    },
+    {
+      "keyword": "racism",
+      "title": "'This Is Pure Racism': Jasmine Crockett Goes Ballistic On ICE - YouTube",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DfaSXY3tC_V0&ct=ga&cd=CAIyHGMzM2Q0MWQxMjg3MGVkYTA6Y29tOmVuOlVTOlI&usg=AOvVaw2hntWhn00hR-SchumfH7N-",
+      "full_text": "'This Is Pure Racism': Jasmine Crockett Goes Ballistic On ICE. 1 view \u00b7 38 seconds ago ...more. Forbes Breaking News. 5.42M. Subscribe.",
+      "summary": "'This Is Pure Racism': Jasmine Crockett Goes Ballistic On ICE. 1 view \u00b7 38 seconds ago . .",
+      "sentiment": 0.21428571428571427,
+      "severity_score": 69.64285714285714
+    },
+    {
+      "keyword": "racism",
+      "title": "ICE lawyer returns to work after report links him to racist account - MS NOW",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.ms.now/opinion/ice-lawyer-james-rodden-racist-social-media-trump&ct=ga&cd=CAIyHGMzM2Q0MWQxMjg3MGVkYTA6Y29tOmVuOlVTOlI&usg=AOvVaw3APZNJ1eTbdEy1KRbE2aCk",
+      "full_text": "... racism. On Tuesday, the Texas Observer reported seeing James Rodden, an ... Byron Donalds faces racist attacks in Florida's ugly GOP gubernatorial&nbsp;...",
+      "summary": ". . .",
+      "sentiment": -0.7,
+      "severity_score": 92.5
+    },
+    {
+      "keyword": "racism",
+      "title": "Chesterton student speaks out after racist letter | FOX 32 Chicago",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.fox32chicago.com/video/fmc-eofy48a30z6szyot&ct=ga&cd=CAIyHGMzM2Q0MWQxMjg3MGVkYTA6Y29tOmVuOlVTOlI&usg=AOvVaw31bBXVaponGz_ldOMOnihi",
+      "full_text": "Chesterton student speaks out after racist letter. A 16-year-old student in Chesterton, Indiana says he's exhausted\u2014by more than schoolwork.",
+      "summary": "Chesterton student speaks out after racist letter. A 16-year-old student in Chesterton, Indiana says he's exhausted\u2014by more than schoolwork. .",
+      "sentiment": 0.5,
+      "severity_score": 62.5
+    },
+    {
+      "keyword": "racism",
+      "title": "'I'm tired': Chesterton High student speaks out after racist letter and school suspension",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.fox32chicago.com/news/im-tired-chesterton-high-student-speaks-out-after-racist-letter-school-suspension&ct=ga&cd=CAIyHGMzM2Q0MWQxMjg3MGVkYTA6Y29tOmVuOlVTOlI&usg=AOvVaw0LOXZ3HrZytXvRjh_WN6IX",
+      "full_text": "Julian says racism has continued despite a school investigation, as his family prepares to meet with the district. CHESTERTON, Ind. - When someone&nbsp;...",
+      "summary": "Julian says racism has continued despite a school investigation, as his family prepares to meet with the district. CHESTERTON, Ind. - When someone&nbsp;.",
+      "sentiment": 0.0,
+      "severity_score": 75.0
+    },
+    {
+      "keyword": "racism",
+      "title": "Chesterton student speaks out after racist letter - YouTube",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3Dsv3RrfQUhhM&ct=ga&cd=CAIyHGMzM2Q0MWQxMjg3MGVkYTA6Y29tOmVuOlVTOlI&usg=AOvVaw1PiTb3UZVbs3KZx-GUAQx4",
+      "full_text": "Chesterton student speaks out after racist letter. 2 views \u00b7 3 minutes ago ...more. FOX 32 Chicago. 450K. Subscribe.",
+      "summary": "Chesterton student speaks out after racist letter. 2 views \u00b7 3 minutes ago . .",
+      "sentiment": 0.0,
+      "severity_score": 75.0
+    },
+    {
+      "keyword": "racism",
+      "title": "Anti-racism watchdog fields complaint after separatist town hall | Edmonton Journal",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://edmontonjournal.com/news/local-news/anti-racism-watchdog-field-complaint-arising-from-immigration-comments-made-at-separatist-town-hall&ct=ga&cd=CAIyHGMzM2Q0MWQxMjg3MGVkYTA6Y29tOmVuOlVTOlI&usg=AOvVaw3f8cTiUasLnvtXOQGsT0RB",
+      "full_text": "Anti-racism watchdog fields complaint arising from immigration comments made at separatist town hall. The complainant said Alberta Prosperity&nbsp;...",
+      "summary": "Anti-racism watchdog fields complaint arising from immigration comments made at separatist town hall. The complainant said Alberta Prosperity&nbsp;. .",
+      "sentiment": -0.3,
+      "severity_score": 82.5
+    },
+    {
+      "keyword": "racism",
+      "title": "Colorado Springs woman gets year in prison for racism hoax before local election",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.cbsnews.com/colorado/news/colorado-springs-woman-gets-year-in-prison-for-racism-hoax-before-local-election/&ct=ga&cd=CAIyHGMzM2Q0MWQxMjg3MGVkYTA6Y29tOmVuOlVTOlI&usg=AOvVaw1maIwNmtYkGsbBrm8MaTLe",
+      "full_text": "Colorado Springs woman gets year in prison for racism hoax before local election &middot; colorado-springs-hate-crime-hoax-1-with-blur- &middot; colorado-springs-hate&nbsp;...",
+      "summary": "Colorado Springs woman gets year in prison for racism hoax before local election &middot; colorado-springs-hate-crime-hoax-1-with-blur- &middot; colorado-springs-hate&nbsp;. . .",
+      "sentiment": 0.0,
+      "severity_score": 75.0
+    },
+    {
+      "keyword": "racism",
+      "title": "Chesterton student speaks out after racist letter - YouTube",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DVDKahSwwGqk&ct=ga&cd=CAIyHGMzM2Q0MWQxMjg3MGVkYTA6Y29tOmVuOlVTOlI&usg=AOvVaw1khUS-h70W-2wFOAbTyg9h",
+      "full_text": "he's facing racism at Chesterton High School, where he is one of very few black students. Days ago, he expressed his frustration online\u2014and the&nbsp;...",
+      "summary": "he's facing racism at Chesterton High School, where he is one of very few black students. Days ago, he expressed his frustration online\u2014and the&nbsp;. .",
+      "sentiment": -0.08888888888888889,
+      "severity_score": 77.22222222222223
+    },
+    {
+      "keyword": "racism",
+      "title": "Chesterton student speaks out after racist letter | FOX 32 Chicago",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.fox32chicago.com/video/fmc-2ggisxqks8djnlrb&ct=ga&cd=CAIyHGMzM2Q0MWQxMjg3MGVkYTA6Y29tOmVuOlVTOlI&usg=AOvVaw2Caf08Qkz0SMZATR-jmWw2",
+      "full_text": "Julian Blevins, a record-holding track athlete and Special Olympics volunteer, says he's facing racism at Chesterton High School, where he is one&nbsp;...",
+      "summary": "Julian Blevins, a record-holding track athlete and Special Olympics volunteer, says he's facing racism at Chesterton High School, where he is one&nbsp;. . .",
+      "sentiment": 0.25857142857142856,
+      "severity_score": 68.53571428571428
+    },
+    {
+      "keyword": "racism",
+      "title": "ICE agent believed responsible for LA killing accused of child abuse, racism in court filings",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.union-bulletin.com/news/national/ice-agent-believed-responsible-for-la-killing-accused-of-child-abuse-racism-in-court-filings/article_74f261a8-00dd-585f-a9a8-d9d5948d95cd.html&ct=ga&cd=CAIyHGMzM2Q0MWQxMjg3MGVkYTA6Y29tOmVuOlVTOlI&usg=AOvVaw14ge5-cejB1r0zIHQEzRbP",
+      "full_text": "Through an attorney, the children also accused Palacios of using homophobic slurs and making racist remarks about Black and Latino people, according&nbsp;...",
+      "summary": "Through an attorney, the children also accused Palacios of using homophobic slurs and making racist remarks about Black and Latino people, according&nbsp;. . .",
+      "sentiment": -0.16666666666666666,
+      "severity_score": 79.16666666666667
+    },
+    {
+      "keyword": "racism",
+      "title": "As Marmite Morrissey returns, let's talk about the actual music - The Conversation",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://theconversation.com/as-marmite-morrissey-returns-lets-talk-about-the-actual-music-273310&ct=ga&cd=CAIyHGMzM2Q0MWQxMjg3MGVkYTA6Y29tOmVuOlVTOlI&usg=AOvVaw3xXNIxCCq8EyrJxGZVPD46",
+      "full_text": "In a 2018 blog post, he wrote: \u201cI despise racism. I despise fascism.\u201d Morrissey's relationship with the media has been similarly complex. In 2007, for&nbsp;...",
+      "summary": "In a 2018 blog post, he wrote: \u201cI despise racism. I despise fascism. \u201d Morrissey's relationship with the media has been similarly complex.",
+      "sentiment": -0.3,
+      "severity_score": 82.5
+    },
+    {
+      "keyword": "racism",
+      "title": "ICE agent believed responsible for LA killing accused of child abuse, racism in court filings",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.thederrick.com/ap/national/ice-agent-believed-responsible-for-la-killing-accused-of-child-abuse-racism-in-court-filings/article_24f55728-aa8f-5d1a-b3f9-0d6a1ad5efdf.html&ct=ga&cd=CAIyHGMzM2Q0MWQxMjg3MGVkYTA6Y29tOmVuOlVTOlI&usg=AOvVaw1m0lmVjJxdo6W98VTR3ypg",
+      "full_text": "... racist and homophobic remarks in the past ... ICE agent believed responsible for LA killing accused of child abuse, racism in court filings.",
+      "summary": ". . .",
+      "sentiment": -0.024999999999999994,
+      "severity_score": 75.625
+    },
+    {
+      "keyword": "racism",
+      "title": "Liberals creating 'anti-racism office' to address systemic problem | Telegraph-Journal",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://tj.news/new-brunswick/liberals-creating-anti-racism-office-to-address-systemic-problem&ct=ga&cd=CAIyHGMzM2Q0MWQxMjg3MGVkYTA6Y29tOmVuOlVTOlI&usg=AOvVaw0w7FKR_JjiQeocUey_qyrw",
+      "full_text": "More than three years after a report on systemic racism in New Brunswick called for swift action, the provincial government has responded by&nbsp;...",
+      "summary": "More than three years after a report on systemic racism in New Brunswick called for swift action, the provincial government has responded by&nbsp;. . .",
+      "sentiment": 0.24545454545454545,
+      "severity_score": 68.86363636363636
+    },
+    {
+      "keyword": "racism",
+      "title": "Video shows a man screaming racist slurs at a security guard outside a Social Security office",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DShp4ueeFt0s&ct=ga&cd=CAIyHGMzM2Q0MWQxMjg3MGVkYTA6Y29tOmVuOlVTOlI&usg=AOvVaw2C0YdaTk-saBaOVZZpjPd3",
+      "full_text": "Video shows a man screaming racist slurs at a security guard outside a Social Security office. No views \u00b7 1 minute ago ...more&nbsp;...",
+      "summary": "Video shows a man screaming racist slurs at a security guard outside a Social Security office. No views \u00b7 1 minute ago . .",
+      "sentiment": 0.016666666666666666,
+      "severity_score": 74.58333333333333
+    },
+    {
+      "keyword": "racism",
+      "title": "Once a protest focal point, Denton County Confederate monument now on display in ...",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.keranews.org/news/2026-01-16/once-a-protest-focal-point-denton-county-confederate-monument-now-on-display-in-courthouse-museum&ct=ga&cd=CAIyHGMzM2Q0MWQxMjg3MGVkYTA6Y29tOmVuOlVTOlI&usg=AOvVaw3TdL_xBi2wiO9Ff7cRdXBH",
+      "full_text": "... racism. After an overnight removal was completed by an Arlington-based art preservation company, Denton County put the monument in climate&nbsp;...",
+      "summary": ". . .",
+      "sentiment": 0.0,
+      "severity_score": 75.0
+    },
+    {
+      "keyword": "racism",
+      "title": "ICE agent believed responsible for L.A. killing accused of child abuse, racism in court filings",
+      "date": "2026-01-17",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.latimes.com/california/story/2026-01-16/ice-agent-los-angeles-shooting-court-records&ct=ga&cd=CAIyHGMzM2Q0MWQxMjg3MGVkYTA6Y29tOmVuOlVTOlI&usg=AOvVaw0stDqPLUh86VapLQYEvsie",
+      "full_text": "... racist remarks about Black people and immigrants ... ICE agent believed responsible for L.A. killing accused of child abuse, racism in court filings.",
+      "summary": ". . .",
+      "sentiment": 0.016666666666666677,
+      "severity_score": 74.58333333333333
+    }
+  ]
+}
